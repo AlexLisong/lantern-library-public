@@ -1,4 +1,4 @@
 kokoro>=0.9,<1
-numpy>=1.26,<3
+numpy>=2.5.3,<3
 soundfile>=0.12,<1
 
