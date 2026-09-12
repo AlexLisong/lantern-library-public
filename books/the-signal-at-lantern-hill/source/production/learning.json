@@ -1,0 +1,86 @@
+{
+  "2": {
+    "title": "Before you begin",
+    "section": "READER'S BRIEFING",
+    "note": "A public challenge, an old map, and several possible explanations.",
+    "tip": "Keep a notebook. Record what you know separately from what you suspect.",
+    "sections": [
+      {"title":"Meet the investigators", "items":["Milo notices details and records them in a notebook. He sometimes takes longer than he needs to.","Pip is imaginative and quick to spot patterns. Sometimes she becomes certain before checking the facts."]},
+      {"title":"Your reading mission", "items":["Notice: collect details from the words and pictures.","Predict: suggest an explanation, but stay ready to change it.","Check: compare your theory with new evidence."]},
+      {"title":"Read and listen", "text":"Read chapters 1-8 on pages 3-10. Pause at each question before turning the page. In the ebook, Play this page reads the page you can see. Read to me turns story pages automatically and stops when the story ends."},
+      {"title":"After the mystery", "text":"Use pages 11-14 to explore vocabulary, explain the clues, practise language, and write. Suggested answers are on page 15. You can respond aloud or on paper."},
+      {"title":"Before you turn the page", "text":"Can two people notice the same event but reach different conclusions? Think of an example."}
+    ]
+  },
+  "11": {
+    "title":"Words that unlock the story",
+    "section":"VOCABULARY IN CONTEXT",
+    "note":"Use the surrounding sentence to work out an unfamiliar word.",
+    "tip":"Try explaining a word without using the word itself.",
+    "sections":[
+      {"title":"Use three new words", "text":"Choose three words from this page. Write a different sentence for each one about a school, a sport, or another mystery. Make the meaning clear from the context."},
+      {"title":"Word detective", "text":"Which word names an untested idea? Which one means information that can help you test it? Explain how the two are connected."}
+    ]
+  },
+  "12": {
+    "title":"Build the case",
+    "section":"READING BETWEEN THE LINES",
+    "note":"A convincing answer includes evidence from the story.",
+    "tip":"Start an explanation with: I think ... because the text shows ...",
+    "sections":[
+      {"title":"1 / Fact or assumption?", "text":"Write F for a fact the characters observe, or A for an assumption they have not checked.", "items":["The crow was carrying a metal box. _____","The box contained coins. _____","The map was dated 1958. _____","The crow had taken the prize. _____"]},
+      {"title":"2 / Explain the clues", "items":["How does the poem point the investigators toward the cabinet?","Why does 1958 fail as the code, while 1964 works?"]},
+      {"title":"3 / Change your mind", "text":"Which detail in chapter 3 could have suggested that Mr Reed was doing an ordinary job? Explain how chapter 7 confirms this possibility."},
+      {"title":"4 / Read the characters", "text":"Who contributes most to solving the challenge: Milo, Pip, or both? Support your view with two different moments from the story."}
+    ]
+  },
+  "13": {
+    "title":"Language in action",
+    "section":"GRAMMAR AND REASONING",
+    "note":"Show when events happen and how ideas connect.",
+    "tip":"Use although for a contrast and because for a reason.",
+    "sections":[
+      {"title":"Past actions: background and event", "text":"The past continuous describes an action in progress: Milo was studying the map. The past simple can describe a completed event: Pip noticed a date.", "items":["While Milo was studying the map, Pip noticed a date."]},
+      {"title":"1 / Complete the sentences", "text":"Use the past continuous or past simple form of the verbs in brackets.", "items":["While Milo __________ (examine) the clue, Pip __________ (notice) the initials.","Mr Reed __________ (carry) his toolbox when Milo __________ (call) to him."]},
+      {"title":"2 / Connect the ideas", "text":"Join each pair into one sentence. Use the word in brackets.", "items":["Pip was confident. Her first theory was wrong. (although)","The old map showed a different river route. It had been drawn before the flood. (because)"]},
+      {"title":"3 / Make a careful claim", "text":"Compare: The box contains coins. The box might contain coins. Which sentence leaves room for another explanation? Write one possible explanation for the box's sound using might or could."}
+    ]
+  },
+  "14": {
+    "title":"Write the next signal",
+    "section":"CREATIVE CHALLENGE",
+    "note":"Write a 100-130 word mystery scene set one year later.",
+    "tip":"Give the reader a fair clue before revealing your explanation.",
+    "sections":[
+      {"title":"Your starting point", "text":"One year later, Milo and Pip notice a new signal. This time, Pip refuses to make an accusation without evidence."},
+      {"title":"Plan in four steps", "items":["Observation: What can they actually see or hear?","First theory: What might explain it?","New clue: What supports or challenges that theory?","Resolution: What do they discover?"]},
+      {"title":"Include", "items":["At least three vocabulary words from page 11.","One sentence with a past continuous action and a past simple event.","A short exchange of dialogue.","A clear difference between a fact and an assumption."]},
+      {"title":"Check your ending", "text":"Could a careful reader have worked out the answer? Underline the clue that makes your ending fair."}
+    ]
+  },
+  "15": {
+    "title":"Check your reasoning",
+    "section":"SUGGESTED ANSWERS",
+    "note":"Read this after completing the activities.",
+    "tip":"For open questions, a different answer can work if the evidence supports it.",
+    "sections":[
+      {"title":"Vocabulary / page 11", "text":"An assumption is an untested idea. Evidence is information that can help test it. Original sentences will vary."},
+      {"title":"Build the case / page 12", "items":["1. F, A, F, A.","2. The first letters of the poem's five lines spell NORTH. 1958 is the map's date; 1964 is the year of the flood that changed the river's course.","3. The dusty work apron and his mention of a repair suggest an ordinary job. His tools and brass fittings, followed by his explanation about the shutter, support that idea.","4. Both contribute: Milo checks the map and compares the dates; Pip spots the initials and helps open the cabinet. Other evidence-based arguments are possible."]},
+      {"title":"Language / page 13", "items":["1. was examining; noticed. was carrying; called.","2. Although Pip was confident, her first theory was wrong. The old map showed a different river route because it had been drawn before the flood.","3. The second sentence leaves room for uncertainty. Example: The box could contain metal tools."]},
+      {"title":"Writing / page 14", "text":"There is no single correct ending. Check the word count, the required language, and whether the conclusion follows from a clue the reader has already seen."}
+    ]
+  },
+  "16": {
+    "title":"Read, discuss, investigate",
+    "section":"FOR TEACHERS AND FAMILIES",
+    "note":"A flexible lesson for ages 10-12 with intermediate English.",
+    "tip":"Ask What makes you think that? before giving the answer.",
+    "sections":[
+      {"title":"Learning focus", "text":"Read for gist and detail; infer motives; distinguish evidence from assumptions; sequence events; use past continuous and past simple forms; express uncertainty; support an opinion with reasons."},
+      {"title":"A 35-45 minute lesson", "items":["5 minutes: introduce the investigators and discuss a first impression that turned out to be wrong.","15-20 minutes: read or listen to the story. Pause after chapters 3, 4, and 5 to collect facts and predictions.","10 minutes: choose vocabulary, comprehension, and language tasks to match the learner's needs.","5-10 minutes: plan a new mystery. Complete the writing task later if needed."]},
+      {"title":"Support and stretch", "text":"For support, explain key words before reading and replay one paragraph at a time. For a challenge, ask learners to defend a different interpretation using evidence, or retell a scene from Pip's point of view."},
+      {"title":"Using the ebook", "text":"Every page has its own audio clip. Manual page turns stop the previous clip. Read to me advances through the story, then pauses before the learning pages. It also pauses before the answer key. The transcript highlights the current spoken sentence. Use Slower or replay when helpful."},
+      {"title":"About this resource", "text":"An original fictional story and illustrated reader. The village, its history, and its inhabitants are invented. This is intermediate learning material, not a standardized reading-level assessment."}
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "start": 0,
+    "image": "source/illustrations/cover.png",
+    "title": "A mystery in eight chapters",
+    "cover": true
+  },
+  {
+    "start": 7.075,
+    "image": "source/illustrations/page-03.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      511
+    ],
+    "title": "Chapter 1 / An unexpected invitation"
+  },
+  {
+    "start": 33.025,
+    "image": "source/illustrations/page-03.png",
+    "crop": [
+      0,
+      530,
+      1536,
+      1024
+    ],
+    "title": "Chapter 1 / An unexpected invitation"
+  },
+  {
+    "start": 63.545,
+    "image": "source/illustrations/page-04.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      501
+    ],
+    "title": "Chapter 2 / The map that misled them"
+  },
+  {
+    "start": 87.8,
+    "image": "source/illustrations/page-04.png",
+    "crop": [
+      0,
+      519,
+      1536,
+      1024
+    ],
+    "title": "Chapter 2 / The map that misled them"
+  },
+  {
+    "start": 114.48,
+    "image": "source/illustrations/page-05.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      507
+    ],
+    "title": "Chapter 3 / A suspicious sound"
+  },
+  {
+    "start": 142.57,
+    "image": "source/illustrations/page-05.png",
+    "crop": [
+      0,
+      522,
+      1536,
+      1024
+    ],
+    "title": "Chapter 3 / A suspicious sound"
+  },
+  {
+    "start": 173.875,
+    "image": "source/illustrations/page-06.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      507
+    ],
+    "title": "Chapter 4 / First things first"
+  },
+  {
+    "start": 217.36,
+    "image": "source/illustrations/page-06.png",
+    "crop": [
+      0,
+      522,
+      1536,
+      1024
+    ],
+    "title": "Chapter 4 / First things first"
+  },
+  {
+    "start": 242.765,
+    "image": "source/illustrations/page-07.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      500
+    ],
+    "title": "Chapter 5 / Four empty spaces"
+  },
+  {
+    "start": 268.965,
+    "image": "source/illustrations/page-07.png",
+    "crop": [
+      0,
+      520,
+      1536,
+      1024
+    ],
+    "title": "Chapter 5 / Four empty spaces"
+  },
+  {
+    "start": 297.43,
+    "image": "source/illustrations/page-08.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      498
+    ],
+    "title": "Chapter 6 / The date that mattered"
+  },
+  {
+    "start": 328.68,
+    "image": "source/illustrations/page-08.png",
+    "crop": [
+      0,
+      518,
+      1536,
+      1024
+    ],
+    "title": "Chapter 6 / The date that mattered"
+  },
+  {
+    "start": 356.735,
+    "image": "source/illustrations/page-09.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      508
+    ],
+    "title": "Chapter 7 / The crow's explanation"
+  },
+  {
+    "start": 383.965,
+    "image": "source/illustrations/page-09.png",
+    "crop": [
+      0,
+      524,
+      1536,
+      1024
+    ],
+    "title": "Chapter 7 / The crow's explanation"
+  },
+  {
+    "start": 410.97,
+    "image": "source/illustrations/page-10.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      507
+    ],
+    "title": "Chapter 8 / A story worth sharing"
+  },
+  {
+    "start": 435.815,
+    "image": "source/illustrations/page-10.png",
+    "crop": [
+      0,
+      522,
+      1536,
+      1024
+    ],
+    "title": "Chapter 8 / A story worth sharing"
+  }
+]

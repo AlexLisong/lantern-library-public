@@ -1,0 +1,524 @@
+{
+  "engine": "Kokoro-82M (local)",
+  "voice": "af_heart",
+  "speed": 0.86,
+  "sample_rate": 24000,
+  "story": {
+    "file": "audio/milo-and-the-red-ball-read-along.mp3",
+    "duration": 130.325,
+    "cues": [
+      {
+        "start": 0.5,
+        "end": 2.85,
+        "text": "Milo and the Red Ball.",
+        "page": null
+      },
+      {
+        "start": 3.85,
+        "end": 6.075,
+        "text": "A story to read together.",
+        "page": null
+      },
+      {
+        "start": 7.075,
+        "end": 11.625,
+        "text": "Open your book to page three. Listen and look at the pictures.",
+        "page": null
+      },
+      {
+        "start": 13.625,
+        "end": 16.175,
+        "text": "Page three. A sunny day.",
+        "page": 3
+      },
+      {
+        "start": 17.075,
+        "end": 19.425,
+        "text": "Milo has a red ball.",
+        "page": 3
+      },
+      {
+        "start": 20.575,
+        "end": 23.05,
+        "text": "Milo and Pip are friends.",
+        "page": 3
+      },
+      {
+        "start": 23.7,
+        "end": 25.45,
+        "text": "Hello, Pip!",
+        "page": 3
+      },
+      {
+        "start": 26.25,
+        "end": 28.05,
+        "text": "Let's play!",
+        "page": 3
+      },
+      {
+        "start": 29.35,
+        "end": 31.2,
+        "text": "Turn the page.",
+        "page": 3
+      },
+      {
+        "start": 33.2,
+        "end": 35.575,
+        "text": "Page four. Oh, no!",
+        "page": 4
+      },
+      {
+        "start": 36.475,
+        "end": 38.625,
+        "text": "Milo kicks the ball.",
+        "page": 4
+      },
+      {
+        "start": 39.775,
+        "end": 41.875,
+        "text": "The ball rolls away.",
+        "page": 4
+      },
+      {
+        "start": 42.525,
+        "end": 44.875,
+        "text": "Oh, no! Where is my ball?",
+        "page": 4
+      },
+      {
+        "start": 46.175,
+        "end": 48.025,
+        "text": "Turn the page.",
+        "page": 4
+      },
+      {
+        "start": 50.025,
+        "end": 52.575,
+        "text": "Page five. Under the tree.",
+        "page": 5
+      },
+      {
+        "start": 53.475,
+        "end": 55.675,
+        "text": "Milo and Pip look.",
+        "page": 5
+      },
+      {
+        "start": 56.325,
+        "end": 58.375,
+        "text": "Is it under the tree?",
+        "page": 5
+      },
+      {
+        "start": 59.675,
+        "end": 61.825,
+        "text": "Pip finds a red leaf.",
+        "page": 5
+      },
+      {
+        "start": 62.475,
+        "end": 64.6,
+        "text": "No. It is a leaf!",
+        "page": 5
+      },
+      {
+        "start": 65.9,
+        "end": 67.75,
+        "text": "Turn the page.",
+        "page": 5
+      },
+      {
+        "start": 69.75,
+        "end": 72.125,
+        "text": "Page six. In the box.",
+        "page": 6
+      },
+      {
+        "start": 73.025,
+        "end": 75.15,
+        "text": "Next, they see a box.",
+        "page": 6
+      },
+      {
+        "start": 75.8,
+        "end": 77.7,
+        "text": "Is it in the box?",
+        "page": 6
+      },
+      {
+        "start": 79.0,
+        "end": 80.975,
+        "text": "Pip looks in the box.",
+        "page": 6
+      },
+      {
+        "start": 81.625,
+        "end": 83.675,
+        "text": "No. It is a hat!",
+        "page": 6
+      },
+      {
+        "start": 84.975,
+        "end": 86.825,
+        "text": "Turn the page.",
+        "page": 6
+      },
+      {
+        "start": 88.825,
+        "end": 91.6,
+        "text": "Page seven. Behind the bench.",
+        "page": 7
+      },
+      {
+        "start": 92.5,
+        "end": 94.6,
+        "text": "Pip sees something red.",
+        "page": 7
+      },
+      {
+        "start": 95.25,
+        "end": 97.35,
+        "text": "Look behind the bench!",
+        "page": 7
+      },
+      {
+        "start": 98.65,
+        "end": 101.175,
+        "text": "Milo looks behind the bench.",
+        "page": 7
+      },
+      {
+        "start": 101.825,
+        "end": 103.7,
+        "text": "My red ball!",
+        "page": 7
+      },
+      {
+        "start": 105.0,
+        "end": 106.85,
+        "text": "Turn the page.",
+        "page": 7
+      },
+      {
+        "start": 108.85,
+        "end": 111.55,
+        "text": "Page eight. Friends help friends.",
+        "page": 8
+      },
+      {
+        "start": 112.45,
+        "end": 114.575,
+        "text": "Milo smiles.",
+        "page": 8
+      },
+      {
+        "start": 115.225,
+        "end": 117.025,
+        "text": "Thank you, Pip!",
+        "page": 8
+      },
+      {
+        "start": 117.825,
+        "end": 119.575,
+        "text": "You're welcome!",
+        "page": 8
+      },
+      {
+        "start": 120.875,
+        "end": 123.45,
+        "text": "Milo and Pip play together.",
+        "page": 8
+      },
+      {
+        "start": 124.1,
+        "end": 125.9,
+        "text": "Let's play!",
+        "page": 8
+      },
+      {
+        "start": 127.2,
+        "end": 128.825,
+        "text": "The end.",
+        "page": 8
+      }
+    ],
+    "page_starts": {
+      "3": 13.625,
+      "4": 33.2,
+      "5": 50.025,
+      "6": 69.75,
+      "7": 88.825,
+      "8": 108.85
+    }
+  },
+  "practice": {
+    "file": "audio/milo-and-the-red-ball-listen-and-repeat.mp3",
+    "duration": 171.325,
+    "cues": [
+      {
+        "start": 0.5,
+        "end": 4.25,
+        "text": "Milo and the Red Ball. Listen and repeat.",
+        "page": null
+      },
+      {
+        "start": 5.25,
+        "end": 9.6,
+        "text": "Look at page nine. Listen, point, and say each word.",
+        "page": null
+      },
+      {
+        "start": 11.6,
+        "end": 13.1,
+        "text": "ball.",
+        "page": null
+      },
+      {
+        "start": 14.1,
+        "end": 15.775,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 19.275,
+        "end": 20.775,
+        "text": "ball.",
+        "page": null
+      },
+      {
+        "start": 21.975,
+        "end": 23.525,
+        "text": "tree.",
+        "page": null
+      },
+      {
+        "start": 24.525,
+        "end": 26.2,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 29.7,
+        "end": 31.25,
+        "text": "tree.",
+        "page": null
+      },
+      {
+        "start": 32.45,
+        "end": 33.975,
+        "text": "leaf.",
+        "page": null
+      },
+      {
+        "start": 34.975,
+        "end": 36.65,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 40.15,
+        "end": 41.675,
+        "text": "leaf.",
+        "page": null
+      },
+      {
+        "start": 42.875,
+        "end": 44.475,
+        "text": "box.",
+        "page": null
+      },
+      {
+        "start": 45.475,
+        "end": 47.15,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 50.65,
+        "end": 52.25,
+        "text": "box.",
+        "page": null
+      },
+      {
+        "start": 53.45,
+        "end": 54.9,
+        "text": "hat.",
+        "page": null
+      },
+      {
+        "start": 55.9,
+        "end": 57.575,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 61.075,
+        "end": 62.525,
+        "text": "hat.",
+        "page": null
+      },
+      {
+        "start": 63.725,
+        "end": 65.3,
+        "text": "bench.",
+        "page": null
+      },
+      {
+        "start": 66.3,
+        "end": 67.975,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 71.475,
+        "end": 73.05,
+        "text": "bench.",
+        "page": null
+      },
+      {
+        "start": 74.25,
+        "end": 78.35,
+        "text": "Now look at page ten. Listen and say the phrases.",
+        "page": null
+      },
+      {
+        "start": 80.35,
+        "end": 82.2,
+        "text": "Under the tree.",
+        "page": null
+      },
+      {
+        "start": 83.2,
+        "end": 84.875,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 88.875,
+        "end": 90.725,
+        "text": "Under the tree.",
+        "page": null
+      },
+      {
+        "start": 91.925,
+        "end": 93.675,
+        "text": "In the box.",
+        "page": null
+      },
+      {
+        "start": 94.675,
+        "end": 96.35,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 100.35,
+        "end": 102.1,
+        "text": "In the box.",
+        "page": null
+      },
+      {
+        "start": 103.3,
+        "end": 105.275,
+        "text": "Behind the bench.",
+        "page": null
+      },
+      {
+        "start": 106.275,
+        "end": 107.95,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 111.95,
+        "end": 113.925,
+        "text": "Behind the bench.",
+        "page": null
+      },
+      {
+        "start": 115.125,
+        "end": 117.975,
+        "text": "Now let us talk like Milo and Pip.",
+        "page": null
+      },
+      {
+        "start": 119.475,
+        "end": 121.4,
+        "text": "Where is my ball?",
+        "page": null
+      },
+      {
+        "start": 122.4,
+        "end": 124.075,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 128.075,
+        "end": 130.0,
+        "text": "Where is my ball?",
+        "page": null
+      },
+      {
+        "start": 131.2,
+        "end": 133.0,
+        "text": "Let's play!",
+        "page": null
+      },
+      {
+        "start": 134.0,
+        "end": 135.675,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 139.675,
+        "end": 141.475,
+        "text": "Let's play!",
+        "page": null
+      },
+      {
+        "start": 142.675,
+        "end": 144.475,
+        "text": "Thank you, Pip!",
+        "page": null
+      },
+      {
+        "start": 145.475,
+        "end": 147.15,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 151.15,
+        "end": 152.95,
+        "text": "Thank you, Pip!",
+        "page": null
+      },
+      {
+        "start": 154.15,
+        "end": 155.9,
+        "text": "You're welcome!",
+        "page": null
+      },
+      {
+        "start": 156.9,
+        "end": 158.575,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 162.575,
+        "end": 164.325,
+        "text": "You're welcome!",
+        "page": null
+      },
+      {
+        "start": 165.525,
+        "end": 169.825,
+        "text": "Well done! You can read and speak English with Milo and Pip.",
+        "page": null
+      }
+    ]
+  }
+}

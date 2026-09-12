@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#19364a">
+  <meta name="description" content="__DESCRIPTION__">
+  <title>__TITLE__ · Lantern Library</title>
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../assets/reader.css">
+  <script src="book-data.js" defer></script>
+  <script src="../../assets/reader.js" defer></script>
+</head>
+<body>
+  <svg xmlns="http://www.w3.org/2000/svg" class="icon-defs" aria-hidden="true"><defs>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Zm0 0v14"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="m8 4 12 8-12 8Z"/></symbol>
+    <symbol id="i-pause" viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></symbol>
+    <symbol id="i-replay" viewBox="0 0 24 24"><path d="M3 10a9 9 0 1 1 1 8M3 4v6h6"/></symbol>
+    <symbol id="i-left" viewBox="0 0 24 24"><path d="m14 5-7 7 7 7"/></symbol>
+    <symbol id="i-right" viewBox="0 0 24 24"><path d="m10 5 7 7-7 7"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/></symbol>
+    <symbol id="i-pages" viewBox="0 0 24 24"><path d="M3 3h7v7H3zm11 0h7v7h-7zM3 14h7v7H3zm11 0h7v7h-7z"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="m5 5 14 14M19 5 5 19"/></symbol>
+    <symbol id="i-expand" viewBox="0 0 24 24"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5"/></symbol>
+    <symbol id="i-sound" viewBox="0 0 24 24"><path d="m11 4-6 5H2v6h3l6 5Zm4 4c2 2 2 6 0 8m3-11c4 4 4 10 0 14"/></symbol>
+  </defs></svg>
+
+  <header class="topbar">
+    <a class="brand" href="../../" aria-label="Back to Lantern Library"><span class="brand-icon"><svg><use href="#i-book"/></svg></span><span>lantern <strong>library</strong></span></a>
+    <div class="top-actions">
+      <button class="text-button" id="open-pages"><svg><use href="#i-pages"/></svg><span>Pages</span></button>
+      <a class="text-button download" href="__PDF__" download><svg><use href="#i-download"/></svg><span>Save PDF</span></a>
+    </div>
+  </header>
+
+  <main class="reader">
+    <section class="book-stage" aria-label="Illustrated book">
+      <div class="stage-heading"><span>__UPPER_TITLE__</span><button class="small-button" id="zoom-button" aria-label="Enlarge the book page"><svg><use href="#i-expand"/></svg><span>Enlarge</span></button></div>
+      <div class="sheet-surround">
+        <article class="page-sheet" id="page-sheet" tabindex="0" aria-label="Book page; use left and right arrow keys to turn pages">
+          <img id="page-image" alt="" width="1224" height="1584" draggable="false" fetchpriority="high">
+          <div class="paper-edge" aria-hidden="true"></div>
+        </article>
+      </div>
+      <nav class="page-navigation" aria-label="Turn pages">
+        <button class="round-button" id="previous" aria-label="Previous page"><svg><use href="#i-left"/></svg></button>
+        <button class="page-counter" id="page-counter" aria-label="Choose a page">Page <strong id="page-number">1</strong><span id="page-total">of __PAGE_COUNT__</span></button>
+        <button class="round-button" id="next" aria-label="Next page"><svg><use href="#i-right"/></svg></button>
+      </nav>
+    </section>
+
+    <aside class="reading-companion" aria-label="Read and listen">
+      <div class="chapter-heading"><span class="eyebrow" id="page-section">AN ILLUSTRATED MYSTERY</span><h1 id="chapter-title">__TITLE__</h1><p class="chapter-note" id="chapter-note">An old map. A hidden direction. A theory that needs testing.</p></div>
+      <section class="player" aria-label="Page narration">
+        <div class="play-row"><button id="play" class="play-button"><svg id="play-icon"><use href="#i-play"/></svg><span id="play-label">Play this page</span></button><button class="replay-button" id="replay" aria-label="Read this page again"><svg><use href="#i-replay"/></svg></button></div>
+        <label for="seek" class="sr-only">Audio position</label>
+        <input type="range" id="seek" min="0" max="1000" value="0" step="1" aria-valuetext="0 seconds" disabled>
+        <div class="audio-times"><span id="elapsed">0:00</span><span id="duration">0:00</span></div>
+        <div class="player-options"><label class="auto-option"><input type="checkbox" id="auto-next"><span class="switch-track" aria-hidden="true"></span><span>Read to me<small>Turn pages automatically</small></span></label><label class="speed-option"><span class="sr-only">Reading speed</span><select id="speed" aria-label="Reading speed"><option value="0.85">Slower</option><option value="1" selected>Normal</option><option value="1.15">Faster</option></select></label></div>
+        <p id="audio-status" class="audio-status" aria-live="polite">Listen, look, and read along.</p>
+      </section>
+      <section class="words-section" aria-label="Words on this page"><div class="words-heading"><h2>Read along</h2><svg aria-hidden="true"><use href="#i-sound"/></svg></div><div id="transcript" class="transcript"></div></section>
+      <div class="reader-tip"><span class="tip-label">INVESTIGATOR’S NOTE</span><p id="reader-tip">What evidence would change your mind?</p></div>
+      <a class="audio-download" id="audio-download" href="#" download><svg><use href="#i-download"/></svg>Save this page's audio</a>
+    </aside>
+  </main>
+
+  <footer class="site-footer"><span>__AUDIENCE__</span><a href="downloads/__SLUG__-book-pack.zip" download>Download the book &amp; audio</a><a href="downloads/__SLUG__-ebook.zip" download>Save the offline ebook</a>__VIDEO_LINK__</footer>
+  <nav class="mobile-controls" aria-label="Quick reading controls"><button id="mobile-previous" class="round-button" aria-label="Previous page"><svg><use href="#i-left"/></svg></button><button id="mobile-play" class="play-button"><svg><use href="#i-play"/></svg><span>Play this page</span></button><button id="mobile-next" class="round-button" aria-label="Next page"><svg><use href="#i-right"/></svg></button></nav>
+  <audio id="narration" preload="metadata"></audio>
+  <p id="page-announcement" class="sr-only" aria-live="polite"></p>
+
+  <dialog id="pages-dialog" aria-labelledby="pages-title"><div class="dialog-heading"><div><span class="eyebrow">YOUR BOOK</span><h2 id="pages-title">Choose a page</h2></div><button class="round-button" id="close-pages" aria-label="Close page chooser"><svg><use href="#i-x"/></svg></button></div><div id="page-grid" class="page-grid"></div></dialog>
+  <dialog id="zoom-dialog" aria-label="Enlarged book page"><button class="round-button zoom-close" id="close-zoom" aria-label="Close enlarged page"><svg><use href="#i-x"/></svg></button><img id="zoom-image" alt="" width="1224" height="1584"></dialog>
+  <noscript><p class="noscript">Turn on JavaScript to flip the pages and play narration, or <a href="__PDF__">download the PDF book</a>.</p></noscript>
+</body>
+</html>

@@ -1,0 +1,65 @@
+{
+  "title": "Milo and the Red Ball",
+  "subtitle": "A little story about a big friendship",
+  "audience": "Ages 5-7 | Beginner English",
+  "voice": "af_heart",
+  "speed": 0.86,
+  "story": [
+    {
+      "page": 3,
+      "title": "A sunny day",
+      "panels": [
+        {"scene": "hello", "caption": "Milo has a red ball.", "speech": []},
+        {"scene": "friends", "caption": "Milo and Pip are friends.", "speech": ["Hello, Pip!", "Let's play!"]}
+      ],
+      "say": "Let's play!"
+    },
+    {
+      "page": 4,
+      "title": "Oh, no!",
+      "panels": [
+        {"scene": "kick", "caption": "Milo kicks the ball.", "speech": []},
+        {"scene": "gone", "caption": "The ball rolls away.", "speech": ["Oh, no! Where is my ball?"]}
+      ],
+      "say": "Where is my ball?"
+    },
+    {
+      "page": 5,
+      "title": "Under the tree",
+      "panels": [
+        {"scene": "tree_question", "caption": "Milo and Pip look.", "speech": ["Is it under the tree?"]},
+        {"scene": "leaf", "caption": "Pip finds a red leaf.", "speech": ["No. It is a leaf!"]}
+      ],
+      "say": "Under the tree."
+    },
+    {
+      "page": 6,
+      "title": "In the box",
+      "panels": [
+        {"scene": "box_question", "caption": "Next, they see a box.", "speech": ["Is it in the box?"]},
+        {"scene": "hat", "caption": "Pip looks in the box.", "speech": ["No. It is a hat!"]}
+      ],
+      "say": "In the box."
+    },
+    {
+      "page": 7,
+      "title": "Behind the bench",
+      "panels": [
+        {"scene": "bench_question", "caption": "Pip sees something red.", "speech": ["Look behind the bench!"]},
+        {"scene": "found", "caption": "Milo looks behind the bench.", "speech": ["My red ball!"]}
+      ],
+      "say": "Behind the bench."
+    },
+    {
+      "page": 8,
+      "title": "Friends help friends",
+      "panels": [
+        {"scene": "thanks", "caption": "Milo smiles.", "speech": ["Thank you, Pip!", "You're welcome!"]},
+        {"scene": "play", "caption": "Milo and Pip play together.", "speech": ["Let's play!"]}
+      ],
+      "say": "Thank you!"
+    }
+  ],
+  "words": ["ball", "tree", "leaf", "box", "hat", "bench"],
+  "phrases": ["under the tree", "in the box", "behind the bench", "Where is my ball?", "Let's play!", "Thank you, Pip!", "You're welcome!"]
+}

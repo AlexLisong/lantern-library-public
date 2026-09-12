@@ -1,0 +1,25 @@
+dist/
+.build/
+.venv/
+.env
+.env.*
+!.env.example
+.aws-local/
+__pycache__/
+*.pyc
+.DS_Store
+books/*/source/production/speech-cache/
+books/*/source/production/print-images/
+books/*/source/production/*.wav
+books/*/source/production/pages/
+books/*/video/frames/
+
+
+# Private deployment configuration and credentials
+deploy/config.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.sqlite*

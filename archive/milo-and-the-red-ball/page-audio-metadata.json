@@ -1,0 +1,690 @@
+{
+  "title": "Milo and the Red Ball",
+  "voice": "Kokoro af_heart",
+  "pages": [
+    {
+      "number": 1,
+      "title": "Milo and the Red Ball",
+      "section": "A LITTLE ADVENTURE",
+      "note": "A story about a lost ball and a helpful friend.",
+      "tip": "Point to Milo. Can you find the red ball?",
+      "audio": "audio/page-01.mp3",
+      "image": "pages/page-01.webp",
+      "thumbnail": "pages/page-01-thumb.webp",
+      "duration": 17.075,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.6,
+          "text": "Milo and the Red Ball.",
+          "page": 1
+        },
+        {
+          "start": 3.6,
+          "end": 6.55,
+          "text": "A little story about a big friendship.",
+          "page": 1
+        },
+        {
+          "start": 7.55,
+          "end": 9.9,
+          "text": "Read. Look. Say.",
+          "page": 1
+        },
+        {
+          "start": 11.2,
+          "end": 15.075,
+          "text": "Let us read together. Turn the page when you are ready.",
+          "page": 1
+        }
+      ],
+      "alt": "Page 1: Milo and the Red Ball. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 2,
+      "title": "Hello, friends!",
+      "section": "MEET THE FRIENDS",
+      "note": "Meet Milo the rabbit and Pip the bird.",
+      "tip": "Say hello to Milo and Pip. What animal is Milo?",
+      "audio": "audio/page-02.mp3",
+      "image": "pages/page-02.webp",
+      "thumbnail": "pages/page-02-thumb.webp",
+      "duration": 29.175,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.175,
+          "text": "Hello, friends!",
+          "page": 2
+        },
+        {
+          "start": 3.175,
+          "end": 6.7,
+          "text": "Point to Milo. Point to Pip. Say hello!",
+          "page": 2
+        },
+        {
+          "start": 8.7,
+          "end": 11.3,
+          "text": "Milo is a rabbit. Hello!",
+          "page": 2
+        },
+        {
+          "start": 12.5,
+          "end": 14.8,
+          "text": "Pip is a bird. Hi!",
+          "page": 2
+        },
+        {
+          "start": 16.0,
+          "end": 17.875,
+          "text": "Ready to read?",
+          "page": 2
+        },
+        {
+          "start": 18.875,
+          "end": 20.85,
+          "text": "Look at the pictures.",
+          "page": 2
+        },
+        {
+          "start": 21.85,
+          "end": 23.95,
+          "text": "Listen to the story.",
+          "page": 2
+        },
+        {
+          "start": 24.95,
+          "end": 27.175,
+          "text": "Read and say the words.",
+          "page": 2
+        }
+      ],
+      "alt": "Page 2: Hello, friends!. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 3,
+      "title": "A sunny day",
+      "section": "STORY TIME",
+      "note": "Meet two friends on a sunny day.",
+      "tip": "Say \u201cLet\u2019s play!\u201d to someone you like.",
+      "audio": "audio/page-03.mp3",
+      "image": "pages/page-03.webp",
+      "thumbnail": "pages/page-03-thumb.webp",
+      "duration": 21.6,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.1,
+          "text": "A sunny day.",
+          "page": 3
+        },
+        {
+          "start": 3.1,
+          "end": 5.45,
+          "text": "Milo has a red ball.",
+          "page": 3
+        },
+        {
+          "start": 6.3,
+          "end": 8.775,
+          "text": "Milo and Pip are friends.",
+          "page": 3
+        },
+        {
+          "start": 9.625,
+          "end": 11.375,
+          "text": "Hello, Pip!",
+          "page": 3
+        },
+        {
+          "start": 12.375,
+          "end": 14.175,
+          "text": "Let's play!",
+          "page": 3
+        },
+        {
+          "start": 15.175,
+          "end": 17.6,
+          "text": "Now you say: Let's play!",
+          "page": 3
+        }
+      ],
+      "alt": "Page 3: A sunny day. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 4,
+      "title": "Oh, no!",
+      "section": "STORY TIME",
+      "note": "Oh, no! The ball rolls away.",
+      "tip": "Show a surprised face. Where did the ball go?",
+      "audio": "audio/page-04.mp3",
+      "image": "pages/page-04.webp",
+      "thumbnail": "pages/page-04-thumb.webp",
+      "duration": 18.85,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 1.875,
+          "text": "Oh, no!",
+          "page": 4
+        },
+        {
+          "start": 2.875,
+          "end": 5.025,
+          "text": "Milo kicks the ball.",
+          "page": 4
+        },
+        {
+          "start": 5.875,
+          "end": 7.975,
+          "text": "The ball rolls away.",
+          "page": 4
+        },
+        {
+          "start": 8.825,
+          "end": 11.175,
+          "text": "Oh, no! Where is my ball?",
+          "page": 4
+        },
+        {
+          "start": 12.175,
+          "end": 14.85,
+          "text": "Now you say: Where is my ball?",
+          "page": 4
+        }
+      ],
+      "alt": "Page 4: Oh, no!. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 5,
+      "title": "Under the tree",
+      "section": "STORY TIME",
+      "note": "Look carefully under the tree.",
+      "tip": "Point to the red leaf. Is it a ball?",
+      "audio": "audio/page-05.mp3",
+      "image": "pages/page-05.webp",
+      "thumbnail": "pages/page-05-thumb.webp",
+      "duration": 21.875,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.1,
+          "text": "Under the tree.",
+          "page": 5
+        },
+        {
+          "start": 3.1,
+          "end": 5.3,
+          "text": "Milo and Pip look.",
+          "page": 5
+        },
+        {
+          "start": 6.15,
+          "end": 8.2,
+          "text": "Is it under the tree?",
+          "page": 5
+        },
+        {
+          "start": 9.2,
+          "end": 11.35,
+          "text": "Pip finds a red leaf.",
+          "page": 5
+        },
+        {
+          "start": 12.2,
+          "end": 14.325,
+          "text": "No. It is a leaf!",
+          "page": 5
+        },
+        {
+          "start": 15.325,
+          "end": 17.875,
+          "text": "Now you say: Under the tree.",
+          "page": 5
+        }
+      ],
+      "alt": "Page 5: Under the tree. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 6,
+      "title": "In the box",
+      "section": "STORY TIME",
+      "note": "What is hiding in the box?",
+      "tip": "Point to the hat. What color is it?",
+      "audio": "audio/page-06.mp3",
+      "image": "pages/page-06.webp",
+      "thumbnail": "pages/page-06-thumb.webp",
+      "duration": 21.15,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.0,
+          "text": "In the box.",
+          "page": 6
+        },
+        {
+          "start": 3.0,
+          "end": 5.125,
+          "text": "Next, they see a box.",
+          "page": 6
+        },
+        {
+          "start": 5.975,
+          "end": 7.875,
+          "text": "Is it in the box?",
+          "page": 6
+        },
+        {
+          "start": 8.875,
+          "end": 10.85,
+          "text": "Pip looks in the box.",
+          "page": 6
+        },
+        {
+          "start": 11.7,
+          "end": 13.75,
+          "text": "No. It is a hat!",
+          "page": 6
+        },
+        {
+          "start": 14.75,
+          "end": 17.15,
+          "text": "Now you say: In the box.",
+          "page": 6
+        }
+      ],
+      "alt": "Page 6: In the box. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 7,
+      "title": "Behind the bench",
+      "section": "STORY TIME",
+      "note": "Pip has spotted something red.",
+      "tip": "Look behind the bench. Can you see the ball?",
+      "audio": "audio/page-07.mp3",
+      "image": "pages/page-07.webp",
+      "thumbnail": "pages/page-07-thumb.webp",
+      "duration": 22.2,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.225,
+          "text": "Behind the bench.",
+          "page": 7
+        },
+        {
+          "start": 3.225,
+          "end": 5.325,
+          "text": "Pip sees something red.",
+          "page": 7
+        },
+        {
+          "start": 6.175,
+          "end": 8.275,
+          "text": "Look behind the bench!",
+          "page": 7
+        },
+        {
+          "start": 9.275,
+          "end": 11.8,
+          "text": "Milo looks behind the bench.",
+          "page": 7
+        },
+        {
+          "start": 12.65,
+          "end": 14.525,
+          "text": "My red ball!",
+          "page": 7
+        },
+        {
+          "start": 15.525,
+          "end": 18.2,
+          "text": "Now you say: Behind the bench.",
+          "page": 7
+        }
+      ],
+      "alt": "Page 7: Behind the bench. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 8,
+      "title": "Friends help friends",
+      "section": "STORY TIME",
+      "note": "A happy ending for two good friends.",
+      "tip": "Practise \u201cThank you!\u201d and \u201cYou\u2019re welcome!\u201d",
+      "audio": "audio/page-08.mp3",
+      "image": "pages/page-08.webp",
+      "thumbnail": "pages/page-08-thumb.webp",
+      "duration": 24.45,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.35,
+          "text": "Friends help friends.",
+          "page": 8
+        },
+        {
+          "start": 3.35,
+          "end": 5.475,
+          "text": "Milo smiles.",
+          "page": 8
+        },
+        {
+          "start": 6.325,
+          "end": 8.125,
+          "text": "Thank you, Pip!",
+          "page": 8
+        },
+        {
+          "start": 9.125,
+          "end": 10.875,
+          "text": "You're welcome!",
+          "page": 8
+        },
+        {
+          "start": 11.875,
+          "end": 14.45,
+          "text": "Milo and Pip play together.",
+          "page": 8
+        },
+        {
+          "start": 15.3,
+          "end": 17.1,
+          "text": "Let's play!",
+          "page": 8
+        },
+        {
+          "start": 18.1,
+          "end": 20.45,
+          "text": "Now you say: Thank you!",
+          "page": 8
+        }
+      ],
+      "alt": "Page 8: Friends help friends. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 9,
+      "title": "Picture words",
+      "section": "LOOK AND SAY",
+      "note": "Listen, point, and say each word.",
+      "tip": "Find these six things in the story.",
+      "audio": "audio/page-09.mp3",
+      "image": "pages/page-09.webp",
+      "thumbnail": "pages/page-09-thumb.webp",
+      "duration": 53.25,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.125,
+          "text": "Picture words.",
+          "page": 9
+        },
+        {
+          "start": 3.125,
+          "end": 6.125,
+          "text": "Listen, point, and say each word.",
+          "page": 9
+        },
+        {
+          "start": 7.625,
+          "end": 9.7,
+          "text": "Ball. Your turn.",
+          "page": 9
+        },
+        {
+          "start": 13.2,
+          "end": 15.325,
+          "text": "Tree. Your turn.",
+          "page": 9
+        },
+        {
+          "start": 18.825,
+          "end": 20.9,
+          "text": "Leaf. Your turn.",
+          "page": 9
+        },
+        {
+          "start": 24.4,
+          "end": 26.375,
+          "text": "Box. Your turn.",
+          "page": 9
+        },
+        {
+          "start": 29.875,
+          "end": 31.725,
+          "text": "Hat. Your turn.",
+          "page": 9
+        },
+        {
+          "start": 35.225,
+          "end": 37.325,
+          "text": "Bench. Your turn.",
+          "page": 9
+        },
+        {
+          "start": 40.825,
+          "end": 42.725,
+          "text": "Can you find it?",
+          "page": 9
+        },
+        {
+          "start": 43.725,
+          "end": 46.2,
+          "text": "Find a red leaf in the story.",
+          "page": 9
+        },
+        {
+          "start": 48.2,
+          "end": 51.25,
+          "text": "Find a red hat. Find the red ball!",
+          "page": 9
+        }
+      ],
+      "alt": "Page 9: Picture words. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 10,
+      "title": "Where is the ball?",
+      "section": "PLAY WITH WORDS",
+      "note": "Look at the pictures and choose the words.",
+      "tip": "Use a real ball and a box to try \u201cin\u201d and \u201cunder.\u201d",
+      "audio": "audio/page-10.mp3",
+      "image": "pages/page-10.webp",
+      "thumbnail": "pages/page-10-thumb.webp",
+      "duration": 42.5,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.075,
+          "text": "Where is the ball?",
+          "page": 10
+        },
+        {
+          "start": 3.075,
+          "end": 6.525,
+          "text": "Look at each picture. Circle the correct word.",
+          "page": 10
+        },
+        {
+          "start": 8.525,
+          "end": 12.85,
+          "text": "One. The ball is where? Under, in, or behind the tree?",
+          "page": 10
+        },
+        {
+          "start": 17.85,
+          "end": 22.05,
+          "text": "Two. The ball is where? Behind, under, or in the box?",
+          "page": 10
+        },
+        {
+          "start": 27.05,
+          "end": 31.475,
+          "text": "Three. The ball is where? In, behind, or under the bench?",
+          "page": 10
+        },
+        {
+          "start": 36.475,
+          "end": 38.5,
+          "text": "Say the whole sentence!",
+          "page": 10
+        }
+      ],
+      "alt": "Page 10: Where is the ball?. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 11,
+      "title": "Read, draw, and tell",
+      "section": "YOUR TURN",
+      "note": "Choose your answers, then draw your own hiding place.",
+      "tip": "Use paper and crayons for your picture.",
+      "audio": "audio/page-11.mp3",
+      "image": "pages/page-11.webp",
+      "thumbnail": "pages/page-11-thumb.webp",
+      "duration": 51.3,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.45,
+          "text": "Read, draw, and tell.",
+          "page": 11
+        },
+        {
+          "start": 3.45,
+          "end": 7.225,
+          "text": "Circle your answers. Then make a picture of your own.",
+          "page": 11
+        },
+        {
+          "start": 9.225,
+          "end": 13.625,
+          "text": "One. What color is Milo's ball? Red, blue, or yellow?",
+          "page": 11
+        },
+        {
+          "start": 18.625,
+          "end": 22.575,
+          "text": "Two. Who helps Milo? Pip, a cat, or a fish?",
+          "page": 11
+        },
+        {
+          "start": 27.575,
+          "end": 30.975,
+          "text": "Three. Draw a ball. Give it a hiding place.",
+          "page": 11
+        },
+        {
+          "start": 33.975,
+          "end": 35.85,
+          "text": "My ball is ...",
+          "page": 11
+        },
+        {
+          "start": 38.85,
+          "end": 42.825,
+          "text": "Try: under the tree, in the box, or behind the bench.",
+          "page": 11
+        },
+        {
+          "start": 45.825,
+          "end": 48.3,
+          "text": "Tell a friend about your picture.",
+          "page": 11
+        }
+      ],
+      "alt": "Page 11: Read, draw, and tell. Illustrated English story page. The readable text and narration are beside the page."
+    },
+    {
+      "number": 12,
+      "title": "Read together",
+      "section": "FOR GROWN-UPS",
+      "note": "A playful lesson, with a little help from you.",
+      "tip": "Celebrate effort. Pointing is a good first step toward speaking.",
+      "audio": "audio/page-12.mp3",
+      "image": "pages/page-12.webp",
+      "thumbnail": "pages/page-12-thumb.webp",
+      "duration": 74.55,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.8,
+          "text": "Read together. For grown-ups.",
+          "page": 12
+        },
+        {
+          "start": 3.8,
+          "end": 8.225,
+          "text": "A short, playful English lesson for ages five to seven.",
+          "page": 12
+        },
+        {
+          "start": 9.225,
+          "end": 12.05,
+          "text": "Meet Milo and Pip on page two.",
+          "page": 12
+        },
+        {
+          "start": 13.05,
+          "end": 17.275,
+          "text": "Play the story audio. Read pages three to eight together.",
+          "page": 12
+        },
+        {
+          "start": 18.275,
+          "end": 22.575,
+          "text": "Practise the words and phrases on pages nine and ten.",
+          "page": 12
+        },
+        {
+          "start": 23.575,
+          "end": 27.125,
+          "text": "Draw, tell, and celebrate on page eleven.",
+          "page": 12
+        },
+        {
+          "start": 28.125,
+          "end": 34.45,
+          "text": "In the ebook, play one page at a time. Read to me turns the pages automatically.",
+          "page": 12
+        },
+        {
+          "start": 35.95,
+          "end": 41.975,
+          "text": "Point to each panel in order: one, then two. Let the child echo a short line.",
+          "page": 12
+        },
+        {
+          "start": 42.975,
+          "end": 50.125,
+          "text": "Use a real ball and box to act out under, in, and behind. Accept pointing before speaking.",
+          "page": 12
+        },
+        {
+          "start": 51.625,
+          "end": 55.2,
+          "text": "Help with the activity instructions as needed.",
+          "page": 12
+        },
+        {
+          "start": 56.2,
+          "end": 61.2,
+          "text": "Answer key. Page ten: one, under. Two, in. Three, behind.",
+          "page": 12
+        },
+        {
+          "start": 62.2,
+          "end": 68.5,
+          "text": "Page eleven: one, red. Two, Pip. Three, any matching picture and sentence.",
+          "page": 12
+        },
+        {
+          "start": 69.5,
+          "end": 72.55,
+          "text": "You finished the book. Lovely reading!",
+          "page": 12
+        }
+      ],
+      "alt": "Page 12: Read together. Illustrated English story page. The readable text and narration are beside the page."
+    }
+  ]
+}

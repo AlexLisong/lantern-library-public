@@ -1,0 +1,3060 @@
+{
+  "title": "The Signal at Lantern Hill",
+  "slug": "the-signal-at-lantern-hill",
+  "audience": "Ages 10-12 | Intermediate English",
+  "voice": "Kokoro af_heart",
+  "pages": [
+    {
+      "number": 1,
+      "title": "The Signal at Lantern Hill",
+      "section": "AN ILLUSTRATED MYSTERY",
+      "note": "An old map. A hidden direction. A theory that needs testing.",
+      "tip": "What would convince you that your first explanation was wrong?",
+      "audio": "audio/lantern-hill/page-01.mp3",
+      "image": "pages/lantern-hill/page-01.webp",
+      "thumbnail": "pages/lantern-hill/page-01-thumb.webp",
+      "duration": 14.875,
+      "cues": [
+        {
+          "start": 0.3,
+          "end": 2.55,
+          "text": "The Signal at Lantern Hill.",
+          "page": 1
+        },
+        {
+          "start": 3.25,
+          "end": 5.575,
+          "text": "A mystery in eight chapters.",
+          "page": 1
+        },
+        {
+          "start": 6.275,
+          "end": 10.325,
+          "text": "An illustrated mystery for intermediate English readers.",
+          "page": 1
+        },
+        {
+          "start": 11.025,
+          "end": 14.175,
+          "text": "Read the clues. Challenge your assumptions.",
+          "page": 1
+        }
+      ],
+      "alt": "Page 1: The Signal at Lantern Hill. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 2,
+      "title": "Before you begin",
+      "section": "READER'S BRIEFING",
+      "note": "A public challenge, an old map, and several possible explanations.",
+      "tip": "Keep a notebook. Record what you know separately from what you suspect.",
+      "audio": "audio/lantern-hill/page-02.mp3",
+      "image": "pages/lantern-hill/page-02.webp",
+      "thumbnail": "pages/lantern-hill/page-02-thumb.webp",
+      "duration": 86.1,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.025,
+          "text": "Before you begin.",
+          "page": 2
+        },
+        {
+          "start": 2.725,
+          "end": 7.4,
+          "text": "A public challenge, an old map, and several possible explanations.",
+          "page": 2
+        },
+        {
+          "start": 7.78,
+          "end": 9.905,
+          "text": "Meet the investigators.",
+          "page": 2
+        },
+        {
+          "start": 10.405,
+          "end": 14.43,
+          "text": "Milo notices details and records them in a notebook.",
+          "page": 2
+        },
+        {
+          "start": 14.83,
+          "end": 17.88,
+          "text": "He sometimes takes longer than he needs to.",
+          "page": 2
+        },
+        {
+          "start": 18.28,
+          "end": 21.605,
+          "text": "Pip is imaginative and quick to spot patterns.",
+          "page": 2
+        },
+        {
+          "start": 22.005,
+          "end": 25.555,
+          "text": "Sometimes she becomes certain before checking the facts.",
+          "page": 2
+        },
+        {
+          "start": 25.955,
+          "end": 27.68,
+          "text": "Your reading mission.",
+          "page": 2
+        },
+        {
+          "start": 28.18,
+          "end": 31.905,
+          "text": "Notice: collect details from the words and pictures.",
+          "page": 2
+        },
+        {
+          "start": 32.305,
+          "end": 36.68,
+          "text": "Predict: suggest an explanation, but stay ready to change it.",
+          "page": 2
+        },
+        {
+          "start": 37.08,
+          "end": 40.055,
+          "text": "Check: compare your theory with new evidence.",
+          "page": 2
+        },
+        {
+          "start": 40.455,
+          "end": 42.255,
+          "text": "Read and listen.",
+          "page": 2
+        },
+        {
+          "start": 42.755,
+          "end": 45.78,
+          "text": "Read chapters 1-8 on pages 3-10.",
+          "page": 2
+        },
+        {
+          "start": 46.16,
+          "end": 49.285,
+          "text": "Pause at each question before turning the page.",
+          "page": 2
+        },
+        {
+          "start": 49.665,
+          "end": 53.415,
+          "text": "In the ebook, Play this page reads the page you can see.",
+          "page": 2
+        },
+        {
+          "start": 53.795,
+          "end": 58.92,
+          "text": "Read to me turns story pages automatically and stops when the story ends.",
+          "page": 2
+        },
+        {
+          "start": 59.3,
+          "end": 61.075,
+          "text": "After the mystery.",
+          "page": 2
+        },
+        {
+          "start": 61.575,
+          "end": 68.6,
+          "text": "Use pages 11-14 to explore vocabulary, explain the clues, practise language, and write.",
+          "page": 2
+        },
+        {
+          "start": 68.98,
+          "end": 72.005,
+          "text": "Suggested answers are on page 15.",
+          "page": 2
+        },
+        {
+          "start": 72.385,
+          "end": 75.135,
+          "text": "You can respond aloud or on paper.",
+          "page": 2
+        },
+        {
+          "start": 75.515,
+          "end": 77.565,
+          "text": "Before you turn the page.",
+          "page": 2
+        },
+        {
+          "start": 78.065,
+          "end": 82.54,
+          "text": "Can two people notice the same event but reach different conclusions?",
+          "page": 2
+        },
+        {
+          "start": 82.92,
+          "end": 84.72,
+          "text": "Think of an example.",
+          "page": 2
+        }
+      ],
+      "alt": "Page 2: Before you begin. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 3,
+      "title": "An unexpected invitation",
+      "section": "CHAPTER 01",
+      "note": "What does the invitation promise? What has Pip added to it?",
+      "tip": "Separate what the characters observe from what they assume.",
+      "audio": "audio/lantern-hill/page-03.mp3",
+      "image": "pages/lantern-hill/page-03.webp",
+      "thumbnail": "pages/lantern-hill/page-03-thumb.webp",
+      "duration": 62.095,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 3.625,
+          "text": "Chapter 1. An unexpected invitation.",
+          "page": 3
+        },
+        {
+          "start": 4.425,
+          "end": 8.175,
+          "text": "At dusk, three flashes appeared above Lantern Hill.",
+          "page": 3
+        },
+        {
+          "start": 8.555,
+          "end": 11.78,
+          "text": "The old observatory had been dark for years.",
+          "page": 3
+        },
+        {
+          "start": 12.16,
+          "end": 16.185,
+          "text": "Below it, the village was preparing for its lantern festival.",
+          "page": 3
+        },
+        {
+          "start": 16.565,
+          "end": 20.765,
+          "text": "Milo stopped beside the noticeboard while Pip circled overhead.",
+          "page": 3
+        },
+        {
+          "start": 21.145,
+          "end": 26.02,
+          "text": "A fresh envelope was pinned beneath a poster from the Village History Club.",
+          "page": 3
+        },
+        {
+          "start": 26.9,
+          "end": 32.225,
+          "text": "Inside was a faded map and a message: 'Find what our village nearly lost.",
+          "page": 3
+        },
+        {
+          "start": 32.605,
+          "end": 34.98,
+          "text": "Start where the river used to run.",
+          "page": 3
+        },
+        {
+          "start": 35.36,
+          "end": 37.835,
+          "text": "Finish before the festival bell.'",
+          "page": 3
+        },
+        {
+          "start": 38.215,
+          "end": 40.115,
+          "text": "Pip's eyes brightened.",
+          "page": 3
+        },
+        {
+          "start": 40.495,
+          "end": 42.27,
+          "text": "'A hidden treasure!'",
+          "page": 3
+        },
+        {
+          "start": 42.65,
+          "end": 45.125,
+          "text": "Milo examined the small print.",
+          "page": 3
+        },
+        {
+          "start": 45.505,
+          "end": 47.03,
+          "text": "'Perhaps.",
+          "page": 3
+        },
+        {
+          "start": 47.41,
+          "end": 49.86,
+          "text": "But it doesn't actually say treasure.'",
+          "page": 3
+        },
+        {
+          "start": 50.24,
+          "end": 52.865,
+          "text": "They agreed to investigate together.",
+          "page": 3
+        },
+        {
+          "start": 53.245,
+          "end": 58.095,
+          "text": "Pause and think. What does the invitation promise? What has Pip added to it?",
+          "page": 3
+        }
+      ],
+      "alt": "Page 3: An unexpected invitation. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 4,
+      "title": "The map that misled them",
+      "section": "CHAPTER 02",
+      "note": "How can an accurate old map still send someone the wrong way?",
+      "tip": "Separate what the characters observe from what they assume.",
+      "audio": "audio/lantern-hill/page-04.mp3",
+      "image": "pages/lantern-hill/page-04.webp",
+      "thumbnail": "pages/lantern-hill/page-04-thumb.webp",
+      "duration": 56.685,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 3.25,
+          "text": "Chapter 2. The map that misled them.",
+          "page": 4
+        },
+        {
+          "start": 4.05,
+          "end": 6.875,
+          "text": "The map showed a narrow bridge beside the mill.",
+          "page": 4
+        },
+        {
+          "start": 7.255,
+          "end": 12.305,
+          "text": "When they reached the river, however, there was only grass where the crossing should have been.",
+          "page": 4
+        },
+        {
+          "start": 12.685,
+          "end": 15.235,
+          "text": "'We're in the wrong place,' Pip said.",
+          "page": 4
+        },
+        {
+          "start": 15.615,
+          "end": 18.29,
+          "text": "Milo compared the hills with the drawing.",
+          "page": 4
+        },
+        {
+          "start": 18.67,
+          "end": 20.27,
+          "text": "They matched.",
+          "page": 4
+        },
+        {
+          "start": 20.65,
+          "end": 24.325,
+          "text": "Then he noticed a tiny date: 1958.",
+          "page": 4
+        },
+        {
+          "start": 25.205,
+          "end": 28.555,
+          "text": "They followed the public path to a newer footbridge.",
+          "page": 4
+        },
+        {
+          "start": 28.935,
+          "end": 33.46,
+          "text": "Its plaque read, 'Built after the great flood of 1964.'",
+          "page": 4
+        },
+        {
+          "start": 33.84,
+          "end": 38.215,
+          "text": "While Pip studied the water, Milo copied the date into his notebook.",
+          "page": 4
+        },
+        {
+          "start": 38.595,
+          "end": 41.52,
+          "text": "The river had changed course after the flood.",
+          "page": 4
+        },
+        {
+          "start": 41.9,
+          "end": 44.475,
+          "text": "'The map isn't useless,' he said.",
+          "page": 4
+        },
+        {
+          "start": 44.855,
+          "end": 47.33,
+          "text": "'It's a picture of a different time.'",
+          "page": 4
+        },
+        {
+          "start": 47.71,
+          "end": 52.685,
+          "text": "Pause and think. How can an accurate old map still send someone the wrong way?",
+          "page": 4
+        }
+      ],
+      "alt": "Page 4: The map that misled them. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 5,
+      "title": "A suspicious sound",
+      "section": "CHAPTER 03",
+      "note": "Name two facts about the crow and one assumption Pip makes.",
+      "tip": "Separate what the characters observe from what they assume.",
+      "audio": "audio/lantern-hill/page-05.mp3",
+      "image": "pages/lantern-hill/page-05.webp",
+      "thumbnail": "pages/lantern-hill/page-05-thumb.webp",
+      "duration": 65.32,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.925,
+          "text": "Chapter 3. A suspicious sound.",
+          "page": 5
+        },
+        {
+          "start": 3.725,
+          "end": 9.1,
+          "text": "Near the observatory, a tall crow hurried along the path carrying a metal box.",
+          "page": 5
+        },
+        {
+          "start": 9.48,
+          "end": 11.605,
+          "text": "Something inside it clinked.",
+          "page": 5
+        },
+        {
+          "start": 11.985,
+          "end": 14.635,
+          "text": "A black feather drifted onto the steps.",
+          "page": 5
+        },
+        {
+          "start": 15.015,
+          "end": 17.665,
+          "text": "'He has the treasure,' Pip whispered.",
+          "page": 5
+        },
+        {
+          "start": 18.045,
+          "end": 19.745,
+          "text": "'We're too late!'",
+          "page": 5
+        },
+        {
+          "start": 20.125,
+          "end": 23.7,
+          "text": "Milo felt disappointed, but he stopped himself.",
+          "page": 5
+        },
+        {
+          "start": 24.08,
+          "end": 25.83,
+          "text": "They had heard metal.",
+          "page": 5
+        },
+        {
+          "start": 26.21,
+          "end": 28.16,
+          "text": "They had not seen coins.",
+          "page": 5
+        },
+        {
+          "start": 29.04,
+          "end": 30.765,
+          "text": "'Excuse me!'",
+          "page": 5
+        },
+        {
+          "start": 31.145,
+          "end": 32.845,
+          "text": "Milo called.",
+          "page": 5
+        },
+        {
+          "start": 33.225,
+          "end": 34.875,
+          "text": "The crow turned.",
+          "page": 5
+        },
+        {
+          "start": 35.255,
+          "end": 38.355,
+          "text": "His work apron was covered in pale dust.",
+          "page": 5
+        },
+        {
+          "start": 38.735,
+          "end": 40.685,
+          "text": "'Looking for the challenge?'",
+          "page": 5
+        },
+        {
+          "start": 41.065,
+          "end": 42.565,
+          "text": "he asked.",
+          "page": 5
+        },
+        {
+          "start": 42.945,
+          "end": 45.145,
+          "text": "'The next clue is on the steps.",
+          "page": 5
+        },
+        {
+          "start": 45.525,
+          "end": 48.225,
+          "text": "I must finish a repair before the bell.'",
+          "page": 5
+        },
+        {
+          "start": 48.605,
+          "end": 51.28,
+          "text": "Then he disappeared around the building.",
+          "page": 5
+        },
+        {
+          "start": 51.66,
+          "end": 53.285,
+          "text": "Pip frowned.",
+          "page": 5
+        },
+        {
+          "start": 53.665,
+          "end": 55.79,
+          "text": "'Why didn't he tell us more?'",
+          "page": 5
+        },
+        {
+          "start": 56.17,
+          "end": 61.32,
+          "text": "Pause and think. Name two facts about the crow and one assumption Pip makes.",
+          "page": 5
+        }
+      ],
+      "alt": "Page 5: A suspicious sound. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 6,
+      "title": "First things first",
+      "section": "CHAPTER 04",
+      "note": "Read the first letter of each line. Which direction do they find?",
+      "tip": "Separate what the characters observe from what they assume.",
+      "audio": "audio/lantern-hill/page-06.mp3",
+      "image": "pages/lantern-hill/page-06.webp",
+      "thumbnail": "pages/lantern-hill/page-06-thumb.webp",
+      "duration": 76.015,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.925,
+          "text": "Chapter 4. First things first.",
+          "page": 6
+        },
+        {
+          "start": 3.725,
+          "end": 6.75,
+          "text": "A small stone tablet stood beside the steps.",
+          "page": 6
+        },
+        {
+          "start": 7.13,
+          "end": 10.005,
+          "text": "Five short lines had been carved into it.",
+          "page": 6
+        },
+        {
+          "start": 10.385,
+          "end": 12.935,
+          "text": "Milo brushed away the dry leaves.",
+          "page": 6
+        },
+        {
+          "start": 13.315,
+          "end": 15.54,
+          "text": "'An inscription,' he said.",
+          "page": 6
+        },
+        {
+          "start": 15.92,
+          "end": 17.67,
+          "text": "'But why a poem?'",
+          "page": 6
+        },
+        {
+          "start": 18.05,
+          "end": 20.35,
+          "text": "Pip looked back at the envelope.",
+          "page": 6
+        },
+        {
+          "start": 20.73,
+          "end": 26.405,
+          "text": "In one corner, almost hidden beneath a fold, were three words: 'First things first.'",
+          "page": 6
+        },
+        {
+          "start": 27.285,
+          "end": 29.26,
+          "text": "The inscription reads:",
+          "page": 6
+        },
+        {
+          "start": 29.76,
+          "end": 31.96,
+          "text": "Night hides the silent lane.",
+          "page": 6
+        },
+        {
+          "start": 32.76,
+          "end": 34.96,
+          "text": "Owls watch the river bend.",
+          "page": 6
+        },
+        {
+          "start": 35.76,
+          "end": 38.085,
+          "text": "Roots hold the hillside still.",
+          "page": 6
+        },
+        {
+          "start": 38.885,
+          "end": 41.135,
+          "text": "Trees shelter every friend.",
+          "page": 6
+        },
+        {
+          "start": 41.935,
+          "end": 44.135,
+          "text": "Home waits beyond the rain.",
+          "page": 6
+        },
+        {
+          "start": 45.435,
+          "end": 47.66,
+          "text": "Milo read the poem twice.",
+          "page": 6
+        },
+        {
+          "start": 48.04,
+          "end": 50.54,
+          "text": "Pip tapped the beginning of each line.",
+          "page": 6
+        },
+        {
+          "start": 50.92,
+          "end": 54.97,
+          "text": "'Perhaps we should look at the initials, not the whole sentences.'",
+          "page": 6
+        },
+        {
+          "start": 55.35,
+          "end": 58.3,
+          "text": "Milo wrote five letters in his notebook.",
+          "page": 6
+        },
+        {
+          "start": 58.68,
+          "end": 61.155,
+          "text": "Together, they formed a direction.",
+          "page": 6
+        },
+        {
+          "start": 61.535,
+          "end": 66.285,
+          "text": "He turned the map until its compass arrow pointed the same way as his own.",
+          "page": 6
+        },
+        {
+          "start": 66.665,
+          "end": 72.015,
+          "text": "Pause and think. Read the first letter of each line. Which direction do they find?",
+          "page": 6
+        }
+      ],
+      "alt": "Page 6: First things first. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 7,
+      "title": "Four empty spaces",
+      "section": "CHAPTER 05",
+      "note": "Which event does each date describe? Predict the correct code.",
+      "tip": "Separate what the characters observe from what they assume.",
+      "audio": "audio/lantern-hill/page-07.mp3",
+      "image": "pages/lantern-hill/page-07.webp",
+      "thumbnail": "pages/lantern-hill/page-07-thumb.webp",
+      "duration": 60.515,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 3.225,
+          "text": "Chapter 5. Four empty spaces.",
+          "page": 7
+        },
+        {
+          "start": 4.025,
+          "end": 8.125,
+          "text": "At the north entrance, a wooden cabinet stood beneath a shelter.",
+          "page": 7
+        },
+        {
+          "start": 8.505,
+          "end": 12.63,
+          "text": "A sign identified it as part of the History Club's challenge.",
+          "page": 7
+        },
+        {
+          "start": 13.01,
+          "end": 15.91,
+          "text": "Four numbered wheels protected its door.",
+          "page": 7
+        },
+        {
+          "start": 16.29,
+          "end": 20.765,
+          "text": "Above them was another clue: 'The year the river changed its mind.'",
+          "page": 7
+        },
+        {
+          "start": 21.145,
+          "end": 26.27,
+          "text": "Pip immediately suggested 1958, the date printed on their map.",
+          "page": 7
+        },
+        {
+          "start": 27.15,
+          "end": 29.95,
+          "text": "Milo tried it, but the door stayed shut.",
+          "page": 7
+        },
+        {
+          "start": 30.33,
+          "end": 32.755,
+          "text": "The festival bell would ring soon.",
+          "page": 7
+        },
+        {
+          "start": 33.135,
+          "end": 35.385,
+          "text": "Pip fluttered impatiently.",
+          "page": 7
+        },
+        {
+          "start": 35.765,
+          "end": 37.74,
+          "text": "'Try every number!'",
+          "page": 7
+        },
+        {
+          "start": 38.12,
+          "end": 41.07,
+          "text": "'That would take too long,' Milo replied.",
+          "page": 7
+        },
+        {
+          "start": 41.45,
+          "end": 43.6,
+          "text": "'Let's compare our evidence.'",
+          "page": 7
+        },
+        {
+          "start": 43.98,
+          "end": 45.98,
+          "text": "He opened his notebook.",
+          "page": 7
+        },
+        {
+          "start": 46.36,
+          "end": 51.06,
+          "text": "There were two dates on the page, and they described two very different events.",
+          "page": 7
+        },
+        {
+          "start": 51.44,
+          "end": 56.515,
+          "text": "Pause and think. Which event does each date describe? Predict the correct code.",
+          "page": 7
+        }
+      ],
+      "alt": "Page 7: Four empty spaces. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 8,
+      "title": "The date that mattered",
+      "section": "CHAPTER 06",
+      "note": "Why is 1964 stronger evidence than 1958 for this particular clue?",
+      "tip": "Separate what the characters observe from what they assume.",
+      "audio": "audio/lantern-hill/page-08.mp3",
+      "image": "pages/lantern-hill/page-08.webp",
+      "thumbnail": "pages/lantern-hill/page-08-thumb.webp",
+      "duration": 67.755,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 3.075,
+          "text": "Chapter 6. The date that mattered.",
+          "page": 8
+        },
+        {
+          "start": 3.875,
+          "end": 6.775,
+          "text": "Milo pointed to his sketch of the footbridge.",
+          "page": 8
+        },
+        {
+          "start": 7.155,
+          "end": 12.78,
+          "text": "'The map was drawn in 1958, but the flood happened in 1964.",
+          "page": 8
+        },
+        {
+          "start": 13.16,
+          "end": 15.585,
+          "text": "That's when the river changed course.'",
+          "page": 8
+        },
+        {
+          "start": 15.965,
+          "end": 17.915,
+          "text": "Pip checked the clue again.",
+          "page": 8
+        },
+        {
+          "start": 18.295,
+          "end": 21.22,
+          "text": "This time, she turned the wheels carefully.",
+          "page": 8
+        },
+        {
+          "start": 21.6,
+          "end": 22.9,
+          "text": "One.",
+          "page": 8
+        },
+        {
+          "start": 23.28,
+          "end": 24.655,
+          "text": "Nine.",
+          "page": 8
+        },
+        {
+          "start": 25.035,
+          "end": 26.435,
+          "text": "Six.",
+          "page": 8
+        },
+        {
+          "start": 26.815,
+          "end": 28.165,
+          "text": "Four.",
+          "page": 8
+        },
+        {
+          "start": 28.545,
+          "end": 31.32,
+          "text": "The lock clicked, and the cabinet opened.",
+          "page": 8
+        },
+        {
+          "start": 32.2,
+          "end": 38.65,
+          "text": "Inside lay a sealed tin, several photographs, and a bundle of letters tied with blue string.",
+          "page": 8
+        },
+        {
+          "start": 39.03,
+          "end": 40.805,
+          "text": "There were no jewels.",
+          "page": 8
+        },
+        {
+          "start": 41.185,
+          "end": 45.36,
+          "text": "Pip lifted a photograph showing villagers rebuilding a bridge.",
+          "page": 8
+        },
+        {
+          "start": 45.74,
+          "end": 48.14,
+          "text": "'They look exhausted,' she said.",
+          "page": 8
+        },
+        {
+          "start": 48.52,
+          "end": 51.27,
+          "text": "Milo unfolded the first letter.",
+          "page": 8
+        },
+        {
+          "start": 51.65,
+          "end": 55.7,
+          "text": "It began, 'To whoever finds this: today we started again.'",
+          "page": 8
+        },
+        {
+          "start": 56.08,
+          "end": 63.755,
+          "text": "Pause and think. Why is 1964 stronger evidence than 1958 for this particular clue?",
+          "page": 8
+        }
+      ],
+      "alt": "Page 8: The date that mattered. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 9,
+      "title": "The crow's explanation",
+      "section": "CHAPTER 07",
+      "note": "What new evidence changes Pip's theory about Mr Reed?",
+      "tip": "Separate what the characters observe from what they assume.",
+      "audio": "audio/lantern-hill/page-09.mp3",
+      "image": "pages/lantern-hill/page-09.webp",
+      "thumbnail": "pages/lantern-hill/page-09-thumb.webp",
+      "duration": 59.835,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 3.35,
+          "text": "Chapter 7. The crow's explanation.",
+          "page": 9
+        },
+        {
+          "start": 4.15,
+          "end": 9.4,
+          "text": "The crow returned and introduced himself as Mr Reed, the village carpenter.",
+          "page": 9
+        },
+        {
+          "start": 9.78,
+          "end": 12.005,
+          "text": "He opened his metal box.",
+          "page": 9
+        },
+        {
+          "start": 12.385,
+          "end": 15.535,
+          "text": "Inside were tools and small brass fittings.",
+          "page": 9
+        },
+        {
+          "start": 15.915,
+          "end": 19.465,
+          "text": "'I was repairing the lantern shutter,' he explained.",
+          "page": 9
+        },
+        {
+          "start": 19.845,
+          "end": 23.82,
+          "text": "'The History Club asked me to restore the signal for tonight.'",
+          "page": 9
+        },
+        {
+          "start": 24.2,
+          "end": 27.3,
+          "text": "Pip glanced at Milo, then lowered her head.",
+          "page": 9
+        },
+        {
+          "start": 28.18,
+          "end": 31.23,
+          "text": "'I thought you had taken the prize,' she admitted.",
+          "page": 9
+        },
+        {
+          "start": 31.61,
+          "end": 33.585,
+          "text": "Mr Reed smiled.",
+          "page": 9
+        },
+        {
+          "start": 33.965,
+          "end": 37.015,
+          "text": "'A clinking box can tell more than one story.'",
+          "page": 9
+        },
+        {
+          "start": 37.395,
+          "end": 41.42,
+          "text": "He explained that children had written the letters after the flood.",
+          "page": 9
+        },
+        {
+          "start": 41.8,
+          "end": 45.425,
+          "text": "Their families had saved the village by working together.",
+          "page": 9
+        },
+        {
+          "start": 45.805,
+          "end": 50.63,
+          "text": "The cabinet had protected those memories while the observatory was closed.",
+          "page": 9
+        },
+        {
+          "start": 51.01,
+          "end": 55.835,
+          "text": "Pause and think. What new evidence changes Pip's theory about Mr Reed?",
+          "page": 9
+        }
+      ],
+      "alt": "Page 9: The crow's explanation. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 10,
+      "title": "A story worth sharing",
+      "section": "CHAPTER 08",
+      "note": "How do Milo and Pip each change during the adventure?",
+      "tip": "Separate what the characters observe from what they assume.",
+      "autoNext": false,
+      "stopMessage": "The story is complete. Choose the next page when you are ready for the activities.",
+      "audio": "audio/lantern-hill/page-10.mp3",
+      "image": "pages/lantern-hill/page-10.webp",
+      "thumbnail": "pages/lantern-hill/page-10-thumb.webp",
+      "duration": 57.455,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 3.0,
+          "text": "Chapter 8. A story worth sharing.",
+          "page": 10
+        },
+        {
+          "start": 3.8,
+          "end": 9.55,
+          "text": "At the festival, Milo and Pip helped the History Club display the photographs and letters.",
+          "page": 10
+        },
+        {
+          "start": 9.93,
+          "end": 13.58,
+          "text": "Mr Reed placed a clear cover over the old map.",
+          "page": 10
+        },
+        {
+          "start": 13.96,
+          "end": 18.485,
+          "text": "Beside it, Milo added a note explaining how the river had moved.",
+          "page": 10
+        },
+        {
+          "start": 18.865,
+          "end": 24.915,
+          "text": "Soon, neighbours were pointing out familiar places and discovering relatives in the pictures.",
+          "page": 10
+        },
+        {
+          "start": 25.795,
+          "end": 27.445,
+          "text": "The bell rang.",
+          "page": 10
+        },
+        {
+          "start": 27.825,
+          "end": 33.05,
+          "text": "Above the village, the restored lantern sent three steady flashes across the hill.",
+          "page": 10
+        },
+        {
+          "start": 33.43,
+          "end": 37.355,
+          "text": "'Next time,' Pip said, 'I'll ask what's inside the box.'",
+          "page": 10
+        },
+        {
+          "start": 37.735,
+          "end": 39.485,
+          "text": "Milo grinned.",
+          "page": 10
+        },
+        {
+          "start": 39.865,
+          "end": 42.865,
+          "text": "'And I'll check the date before choosing a route.'",
+          "page": 10
+        },
+        {
+          "start": 43.245,
+          "end": 45.27,
+          "text": "They had finished the challenge.",
+          "page": 10
+        },
+        {
+          "start": 45.65,
+          "end": 48.45,
+          "text": "Now the village could continue the story.",
+          "page": 10
+        },
+        {
+          "start": 48.83,
+          "end": 53.455,
+          "text": "Pause and think. How do Milo and Pip each change during the adventure?",
+          "page": 10
+        }
+      ],
+      "alt": "Page 10: A story worth sharing. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 11,
+      "title": "Words that unlock the story",
+      "section": "VOCABULARY IN CONTEXT",
+      "note": "Use the surrounding sentence to work out an unfamiliar word.",
+      "tip": "Try explaining a word without using the word itself.",
+      "audio": "audio/lantern-hill/page-11.mp3",
+      "image": "pages/lantern-hill/page-11.webp",
+      "thumbnail": "pages/lantern-hill/page-11-thumb.webp",
+      "duration": 97.015,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.6,
+          "text": "Words that unlock the story.",
+          "page": 11
+        },
+        {
+          "start": 3.3,
+          "end": 7.65,
+          "text": "Use the surrounding sentence to work out an unfamiliar word.",
+          "page": 11
+        },
+        {
+          "start": 8.03,
+          "end": 9.455,
+          "text": "Faded.",
+          "page": 11
+        },
+        {
+          "start": 10.005,
+          "end": 13.005,
+          "text": "less bright or clear than it used to be.",
+          "page": 11
+        },
+        {
+          "start": 13.385,
+          "end": 16.26,
+          "text": "The faded map was difficult to read.",
+          "page": 11
+        },
+        {
+          "start": 17.16,
+          "end": 18.71,
+          "text": "Evidence.",
+          "page": 11
+        },
+        {
+          "start": 19.26,
+          "end": 23.26,
+          "text": "facts or information that help show whether an idea is true.",
+          "page": 11
+        },
+        {
+          "start": 23.64,
+          "end": 28.115,
+          "text": "A metal sound was evidence of metal, not necessarily coins.",
+          "page": 11
+        },
+        {
+          "start": 29.015,
+          "end": 30.64,
+          "text": "Assumption.",
+          "page": 11
+        },
+        {
+          "start": 31.19,
+          "end": 34.84,
+          "text": "an idea accepted as true before it has been checked.",
+          "page": 11
+        },
+        {
+          "start": 35.22,
+          "end": 38.12,
+          "text": "Pip's assumption about the crow was wrong.",
+          "page": 11
+        },
+        {
+          "start": 39.02,
+          "end": 40.62,
+          "text": "Inscription.",
+          "page": 11
+        },
+        {
+          "start": 41.17,
+          "end": 44.695,
+          "text": "words written or carved on an object or surface.",
+          "page": 11
+        },
+        {
+          "start": 45.075,
+          "end": 48.275,
+          "text": "The inscription was carved into a stone tablet.",
+          "page": 11
+        },
+        {
+          "start": 49.175,
+          "end": 50.775,
+          "text": "Initials.",
+          "page": 11
+        },
+        {
+          "start": 51.325,
+          "end": 54.05,
+          "text": "the first letters of names or words.",
+          "page": 11
+        },
+        {
+          "start": 54.43,
+          "end": 57.955,
+          "text": "The initials of the poem's lines gave a direction.",
+          "page": 11
+        },
+        {
+          "start": 58.855,
+          "end": 60.405,
+          "text": "Restore.",
+          "page": 11
+        },
+        {
+          "start": 60.955,
+          "end": 64.705,
+          "text": "to repair something or return it to a former condition.",
+          "page": 11
+        },
+        {
+          "start": 65.085,
+          "end": 69.01,
+          "text": "Mr Reed helped restore the observatory's signal.",
+          "page": 11
+        },
+        {
+          "start": 69.91,
+          "end": 71.885,
+          "text": "Use three new words.",
+          "page": 11
+        },
+        {
+          "start": 72.385,
+          "end": 74.785,
+          "text": "Choose three words from this page.",
+          "page": 11
+        },
+        {
+          "start": 75.165,
+          "end": 80.39,
+          "text": "Write a different sentence for each one about a school, a sport, or another mystery.",
+          "page": 11
+        },
+        {
+          "start": 80.77,
+          "end": 83.395,
+          "text": "Make the meaning clear from the context.",
+          "page": 11
+        },
+        {
+          "start": 83.775,
+          "end": 85.525,
+          "text": "Word detective.",
+          "page": 11
+        },
+        {
+          "start": 86.025,
+          "end": 88.825,
+          "text": "Which word names an untested idea?",
+          "page": 11
+        },
+        {
+          "start": 89.205,
+          "end": 92.755,
+          "text": "Which one means information that can help you test it?",
+          "page": 11
+        },
+        {
+          "start": 93.135,
+          "end": 95.635,
+          "text": "Explain how the two are connected.",
+          "page": 11
+        }
+      ],
+      "alt": "Page 11: Words that unlock the story. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 12,
+      "title": "Build the case",
+      "section": "READING BETWEEN THE LINES",
+      "note": "A convincing answer includes evidence from the story.",
+      "tip": "Start an explanation with: I think ... because the text shows ...",
+      "audio": "audio/lantern-hill/page-12.mp3",
+      "image": "pages/lantern-hill/page-12.webp",
+      "thumbnail": "pages/lantern-hill/page-12-thumb.webp",
+      "duration": 77.98,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 1.925,
+          "text": "Build the case.",
+          "page": 12
+        },
+        {
+          "start": 2.625,
+          "end": 6.5,
+          "text": "A convincing answer includes evidence from the story.",
+          "page": 12
+        },
+        {
+          "start": 6.88,
+          "end": 8.83,
+          "text": "Fact or assumption?.",
+          "page": 12
+        },
+        {
+          "start": 9.33,
+          "end": 14.93,
+          "text": "Write F for a fact the characters observe, or A for an assumption they have not checked.",
+          "page": 12
+        },
+        {
+          "start": 15.31,
+          "end": 17.86,
+          "text": "The crow was carrying a metal box.",
+          "page": 12
+        },
+        {
+          "start": 18.86,
+          "end": 20.185,
+          "text": "blank",
+          "page": 12
+        },
+        {
+          "start": 21.185,
+          "end": 23.26,
+          "text": "The box contained coins.",
+          "page": 12
+        },
+        {
+          "start": 24.26,
+          "end": 25.585,
+          "text": "blank",
+          "page": 12
+        },
+        {
+          "start": 26.585,
+          "end": 29.335,
+          "text": "The map was dated 1958.",
+          "page": 12
+        },
+        {
+          "start": 30.335,
+          "end": 31.66,
+          "text": "blank",
+          "page": 12
+        },
+        {
+          "start": 32.66,
+          "end": 34.935,
+          "text": "The crow had taken the prize.",
+          "page": 12
+        },
+        {
+          "start": 35.935,
+          "end": 37.26,
+          "text": "blank",
+          "page": 12
+        },
+        {
+          "start": 38.26,
+          "end": 40.135,
+          "text": "Explain the clues.",
+          "page": 12
+        },
+        {
+          "start": 40.635,
+          "end": 44.71,
+          "text": "How does the poem point the investigators toward the cabinet?",
+          "page": 12
+        },
+        {
+          "start": 45.71,
+          "end": 50.885,
+          "text": "Why does 1958 fail as the code, while 1964 works?",
+          "page": 12
+        },
+        {
+          "start": 51.885,
+          "end": 53.61,
+          "text": "Change your mind.",
+          "page": 12
+        },
+        {
+          "start": 54.11,
+          "end": 60.46,
+          "text": "Which detail in chapter 3 could have suggested that Mr Reed was doing an ordinary job?",
+          "page": 12
+        },
+        {
+          "start": 60.84,
+          "end": 65.04,
+          "text": "Explain how chapter 7 confirms this possibility.",
+          "page": 12
+        },
+        {
+          "start": 65.42,
+          "end": 67.32,
+          "text": "Read the characters.",
+          "page": 12
+        },
+        {
+          "start": 67.82,
+          "end": 72.67,
+          "text": "Who contributes most to solving the challenge: Milo, Pip, or both?",
+          "page": 12
+        },
+        {
+          "start": 73.05,
+          "end": 76.6,
+          "text": "Support your view with two different moments from the story.",
+          "page": 12
+        }
+      ],
+      "alt": "Page 12: Build the case. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 13,
+      "title": "Language in action",
+      "section": "GRAMMAR AND REASONING",
+      "note": "Show when events happen and how ideas connect.",
+      "tip": "Use although for a contrast and because for a reason.",
+      "audio": "audio/lantern-hill/page-13.mp3",
+      "image": "pages/lantern-hill/page-13.webp",
+      "thumbnail": "pages/lantern-hill/page-13-thumb.webp",
+      "duration": 89.35,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.2,
+          "text": "Language in action.",
+          "page": 13
+        },
+        {
+          "start": 2.9,
+          "end": 6.175,
+          "text": "Show when events happen and how ideas connect.",
+          "page": 13
+        },
+        {
+          "start": 6.555,
+          "end": 9.43,
+          "text": "Past actions: background and event.",
+          "page": 13
+        },
+        {
+          "start": 9.93,
+          "end": 15.43,
+          "text": "The past continuous describes an action in progress: Milo was studying the map.",
+          "page": 13
+        },
+        {
+          "start": 15.81,
+          "end": 20.26,
+          "text": "The past simple can describe a completed event: Pip noticed a date.",
+          "page": 13
+        },
+        {
+          "start": 20.64,
+          "end": 24.065,
+          "text": "While Milo was studying the map, Pip noticed a date.",
+          "page": 13
+        },
+        {
+          "start": 25.065,
+          "end": 27.04,
+          "text": "Complete the sentences.",
+          "page": 13
+        },
+        {
+          "start": 27.54,
+          "end": 32.515,
+          "text": "Use the past continuous or past simple form of the verbs in brackets.",
+          "page": 13
+        },
+        {
+          "start": 32.895,
+          "end": 37.895,
+          "text": "While Milo blank (examine) the clue, Pip blank (notice) the initials.",
+          "page": 13
+        },
+        {
+          "start": 38.895,
+          "end": 43.62,
+          "text": "Mr Reed blank (carry) his toolbox when Milo blank (call) to him.",
+          "page": 13
+        },
+        {
+          "start": 44.62,
+          "end": 46.52,
+          "text": "Connect the ideas.",
+          "page": 13
+        },
+        {
+          "start": 47.02,
+          "end": 49.645,
+          "text": "Join each pair into one sentence.",
+          "page": 13
+        },
+        {
+          "start": 50.025,
+          "end": 52.15,
+          "text": "Use the word in brackets.",
+          "page": 13
+        },
+        {
+          "start": 52.53,
+          "end": 54.38,
+          "text": "Pip was confident.",
+          "page": 13
+        },
+        {
+          "start": 55.38,
+          "end": 57.48,
+          "text": "Her first theory was wrong.",
+          "page": 13
+        },
+        {
+          "start": 58.48,
+          "end": 59.98,
+          "text": "(although)",
+          "page": 13
+        },
+        {
+          "start": 60.98,
+          "end": 63.755,
+          "text": "The old map showed a different river route.",
+          "page": 13
+        },
+        {
+          "start": 64.755,
+          "end": 67.155,
+          "text": "It had been drawn before the flood.",
+          "page": 13
+        },
+        {
+          "start": 68.155,
+          "end": 69.705,
+          "text": "(because)",
+          "page": 13
+        },
+        {
+          "start": 70.705,
+          "end": 72.655,
+          "text": "Make a careful claim.",
+          "page": 13
+        },
+        {
+          "start": 73.155,
+          "end": 75.98,
+          "text": "Compare: The box contains coins.",
+          "page": 13
+        },
+        {
+          "start": 76.36,
+          "end": 78.66,
+          "text": "The box might contain coins.",
+          "page": 13
+        },
+        {
+          "start": 79.04,
+          "end": 82.49,
+          "text": "Which sentence leaves room for another explanation?",
+          "page": 13
+        },
+        {
+          "start": 82.87,
+          "end": 87.97,
+          "text": "Write one possible explanation for the box's sound using might or could.",
+          "page": 13
+        }
+      ],
+      "alt": "Page 13: Language in action. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 14,
+      "title": "Write the next signal",
+      "section": "CREATIVE CHALLENGE",
+      "note": "Write a 100-130 word mystery scene set one year later.",
+      "tip": "Give the reader a fair clue before revealing your explanation.",
+      "autoNext": false,
+      "stopMessage": "Take time to write your scene. The next page contains suggested answers.",
+      "audio": "audio/lantern-hill/page-14.mp3",
+      "image": "pages/lantern-hill/page-14.webp",
+      "thumbnail": "pages/lantern-hill/page-14-thumb.webp",
+      "duration": 67.75,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.1,
+          "text": "Write the next signal.",
+          "page": 14
+        },
+        {
+          "start": 2.8,
+          "end": 7.475,
+          "text": "Write a 100-130 word mystery scene set one year later.",
+          "page": 14
+        },
+        {
+          "start": 7.855,
+          "end": 9.63,
+          "text": "Your starting point.",
+          "page": 14
+        },
+        {
+          "start": 10.13,
+          "end": 13.78,
+          "text": "One year later, Milo and Pip notice a new signal.",
+          "page": 14
+        },
+        {
+          "start": 14.16,
+          "end": 18.56,
+          "text": "This time, Pip refuses to make an accusation without evidence.",
+          "page": 14
+        },
+        {
+          "start": 18.94,
+          "end": 20.84,
+          "text": "Plan in four steps.",
+          "page": 14
+        },
+        {
+          "start": 21.34,
+          "end": 24.79,
+          "text": "Observation: What can they actually see or hear?",
+          "page": 14
+        },
+        {
+          "start": 25.79,
+          "end": 28.315,
+          "text": "First theory: What might explain it?",
+          "page": 14
+        },
+        {
+          "start": 29.315,
+          "end": 32.74,
+          "text": "New clue: What supports or challenges that theory?",
+          "page": 14
+        },
+        {
+          "start": 33.74,
+          "end": 36.49,
+          "text": "Resolution: What do they discover?",
+          "page": 14
+        },
+        {
+          "start": 37.49,
+          "end": 39.115,
+          "text": "Include.",
+          "page": 14
+        },
+        {
+          "start": 39.615,
+          "end": 43.115,
+          "text": "At least three vocabulary words from page 11.",
+          "page": 14
+        },
+        {
+          "start": 44.115,
+          "end": 49.015,
+          "text": "One sentence with a past continuous action and a past simple event.",
+          "page": 14
+        },
+        {
+          "start": 50.015,
+          "end": 52.265,
+          "text": "A short exchange of dialogue.",
+          "page": 14
+        },
+        {
+          "start": 53.265,
+          "end": 56.665,
+          "text": "A clear difference between a fact and an assumption.",
+          "page": 14
+        },
+        {
+          "start": 57.665,
+          "end": 59.34,
+          "text": "Check your ending.",
+          "page": 14
+        },
+        {
+          "start": 59.84,
+          "end": 62.965,
+          "text": "Could a careful reader have worked out the answer?",
+          "page": 14
+        },
+        {
+          "start": 63.345,
+          "end": 66.37,
+          "text": "Underline the clue that makes your ending fair.",
+          "page": 14
+        }
+      ],
+      "alt": "Page 14: Write the next signal. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 15,
+      "title": "Check your reasoning",
+      "section": "SUGGESTED ANSWERS",
+      "note": "Read this after completing the activities.",
+      "tip": "For open questions, a different answer can work if the evidence supports it.",
+      "audio": "audio/lantern-hill/page-15.mp3",
+      "image": "pages/lantern-hill/page-15.webp",
+      "thumbnail": "pages/lantern-hill/page-15-thumb.webp",
+      "duration": 113.93,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.025,
+          "text": "Check your reasoning.",
+          "page": 15
+        },
+        {
+          "start": 2.725,
+          "end": 5.875,
+          "text": "Read this after completing the activities.",
+          "page": 15
+        },
+        {
+          "start": 6.255,
+          "end": 8.93,
+          "text": "Vocabulary / page 11.",
+          "page": 15
+        },
+        {
+          "start": 9.43,
+          "end": 12.455,
+          "text": "An assumption is an untested idea.",
+          "page": 15
+        },
+        {
+          "start": 12.835,
+          "end": 16.26,
+          "text": "Evidence is information that can help test it.",
+          "page": 15
+        },
+        {
+          "start": 16.64,
+          "end": 19.215,
+          "text": "Original sentences will vary.",
+          "page": 15
+        },
+        {
+          "start": 19.595,
+          "end": 22.095,
+          "text": "Build the case / page 12.",
+          "page": 15
+        },
+        {
+          "start": 22.595,
+          "end": 23.895,
+          "text": "One.",
+          "page": 15
+        },
+        {
+          "start": 24.295,
+          "end": 27.095,
+          "text": "Fact, assumption, fact, assumption.",
+          "page": 15
+        },
+        {
+          "start": 27.495,
+          "end": 28.82,
+          "text": "2.",
+          "page": 15
+        },
+        {
+          "start": 29.22,
+          "end": 32.92,
+          "text": "The first letters of the poem's five lines spell NORTH.",
+          "page": 15
+        },
+        {
+          "start": 33.32,
+          "end": 40.745,
+          "text": "1958 is the map's date; 1964 is the year of the flood that changed the river's course.",
+          "page": 15
+        },
+        {
+          "start": 41.145,
+          "end": 42.545,
+          "text": "3.",
+          "page": 15
+        },
+        {
+          "start": 42.945,
+          "end": 48.42,
+          "text": "The dusty work apron and his mention of a repair suggest an ordinary job.",
+          "page": 15
+        },
+        {
+          "start": 48.82,
+          "end": 55.295,
+          "text": "His tools and brass fittings, followed by his explanation about the shutter, support that idea.",
+          "page": 15
+        },
+        {
+          "start": 55.695,
+          "end": 57.045,
+          "text": "4.",
+          "page": 15
+        },
+        {
+          "start": 57.445,
+          "end": 65.095,
+          "text": "Both contribute: Milo checks the map and compares the dates; Pip spots the initials and helps open the cabinet.",
+          "page": 15
+        },
+        {
+          "start": 65.495,
+          "end": 68.62,
+          "text": "Other evidence-based arguments are possible.",
+          "page": 15
+        },
+        {
+          "start": 69.02,
+          "end": 71.52,
+          "text": "Language / page 13.",
+          "page": 15
+        },
+        {
+          "start": 72.02,
+          "end": 73.32,
+          "text": "1.",
+          "page": 15
+        },
+        {
+          "start": 73.72,
+          "end": 75.995,
+          "text": "was examining; noticed.",
+          "page": 15
+        },
+        {
+          "start": 76.395,
+          "end": 78.32,
+          "text": "was carrying; called.",
+          "page": 15
+        },
+        {
+          "start": 78.72,
+          "end": 80.045,
+          "text": "2.",
+          "page": 15
+        },
+        {
+          "start": 80.445,
+          "end": 84.07,
+          "text": "Although Pip was confident, her first theory was wrong.",
+          "page": 15
+        },
+        {
+          "start": 84.47,
+          "end": 89.445,
+          "text": "The old map showed a different river route because it had been drawn before the flood.",
+          "page": 15
+        },
+        {
+          "start": 89.845,
+          "end": 91.245,
+          "text": "3.",
+          "page": 15
+        },
+        {
+          "start": 91.645,
+          "end": 95.245,
+          "text": "The second sentence leaves room for uncertainty.",
+          "page": 15
+        },
+        {
+          "start": 95.645,
+          "end": 98.895,
+          "text": "Example: The box could contain metal tools.",
+          "page": 15
+        },
+        {
+          "start": 99.295,
+          "end": 101.72,
+          "text": "Writing / page 14.",
+          "page": 15
+        },
+        {
+          "start": 102.22,
+          "end": 104.895,
+          "text": "There is no single correct ending.",
+          "page": 15
+        },
+        {
+          "start": 105.275,
+          "end": 112.55,
+          "text": "Check the word count, the required language, and whether the conclusion follows from a clue the reader has already seen.",
+          "page": 15
+        }
+      ],
+      "alt": "Page 15: Check your reasoning. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    },
+    {
+      "number": 16,
+      "title": "Read, discuss, investigate",
+      "section": "FOR TEACHERS AND FAMILIES",
+      "note": "A flexible lesson for ages 10-12 with intermediate English.",
+      "tip": "Ask What makes you think that? before giving the answer.",
+      "audio": "audio/lantern-hill/page-16.mp3",
+      "image": "pages/lantern-hill/page-16.webp",
+      "thumbnail": "pages/lantern-hill/page-16-thumb.webp",
+      "duration": 118.29,
+      "cues": [
+        {
+          "start": 0.25,
+          "end": 2.8,
+          "text": "Read, discuss, investigate.",
+          "page": 16
+        },
+        {
+          "start": 3.5,
+          "end": 8.05,
+          "text": "A flexible lesson for ages 10-12 with intermediate English.",
+          "page": 16
+        },
+        {
+          "start": 8.43,
+          "end": 10.305,
+          "text": "Learning focus.",
+          "page": 16
+        },
+        {
+          "start": 10.805,
+          "end": 24.905,
+          "text": "Read for gist and detail; infer motives; distinguish evidence from assumptions; sequence events; use past continuous and past simple forms; express uncertainty; support an opinion with reasons.",
+          "page": 16
+        },
+        {
+          "start": 25.285,
+          "end": 28.21,
+          "text": "A 35-45 minute lesson.",
+          "page": 16
+        },
+        {
+          "start": 28.71,
+          "end": 35.335,
+          "text": "5 minutes: introduce the investigators and discuss a first impression that turned out to be wrong.",
+          "page": 16
+        },
+        {
+          "start": 35.735,
+          "end": 39.56,
+          "text": "15-20 minutes: read or listen to the story.",
+          "page": 16
+        },
+        {
+          "start": 39.96,
+          "end": 45.085,
+          "text": "Pause after chapters 3, 4, and 5 to collect facts and predictions.",
+          "page": 16
+        },
+        {
+          "start": 45.485,
+          "end": 52.01,
+          "text": "10 minutes: choose vocabulary, comprehension, and language tasks to match the learner's needs.",
+          "page": 16
+        },
+        {
+          "start": 52.41,
+          "end": 55.235,
+          "text": "5-10 minutes: plan a new mystery.",
+          "page": 16
+        },
+        {
+          "start": 55.635,
+          "end": 58.535,
+          "text": "Complete the writing task later if needed.",
+          "page": 16
+        },
+        {
+          "start": 58.935,
+          "end": 60.76,
+          "text": "Support and stretch.",
+          "page": 16
+        },
+        {
+          "start": 61.26,
+          "end": 66.91,
+          "text": "For support, explain key words before reading and replay one paragraph at a time.",
+          "page": 16
+        },
+        {
+          "start": 67.29,
+          "end": 75.54,
+          "text": "For a challenge, ask learners to defend a different interpretation using evidence, or retell a scene from Pip's point of view.",
+          "page": 16
+        },
+        {
+          "start": 75.92,
+          "end": 77.77,
+          "text": "Using the ebook.",
+          "page": 16
+        },
+        {
+          "start": 78.27,
+          "end": 80.97,
+          "text": "Every page has its own audio clip.",
+          "page": 16
+        },
+        {
+          "start": 81.35,
+          "end": 84.4,
+          "text": "Manual page turns stop the previous clip.",
+          "page": 16
+        },
+        {
+          "start": 84.78,
+          "end": 89.93,
+          "text": "Read to me advances through the story, then pauses before the learning pages.",
+          "page": 16
+        },
+        {
+          "start": 90.31,
+          "end": 93.21,
+          "text": "It also pauses before the answer key.",
+          "page": 16
+        },
+        {
+          "start": 93.59,
+          "end": 96.99,
+          "text": "The transcript highlights the current spoken sentence.",
+          "page": 16
+        },
+        {
+          "start": 97.37,
+          "end": 100.02,
+          "text": "Use Slower or replay when helpful.",
+          "page": 16
+        },
+        {
+          "start": 100.4,
+          "end": 102.275,
+          "text": "About this resource.",
+          "page": 16
+        },
+        {
+          "start": 102.775,
+          "end": 106.55,
+          "text": "An original fictional story and illustrated reader.",
+          "page": 16
+        },
+        {
+          "start": 106.93,
+          "end": 110.98,
+          "text": "The village, its history, and its inhabitants are invented.",
+          "page": 16
+        },
+        {
+          "start": 111.36,
+          "end": 116.91,
+          "text": "This is intermediate learning material, not a standardized reading-level assessment.",
+          "page": 16
+        }
+      ],
+      "alt": "Page 16: Read, discuss, investigate. Illustrated intermediate English reader. Full text is available in the Read along panel."
+    }
+  ],
+  "storyTrack": {
+    "file": "audio/the-signal-at-lantern-hill-story.mp3",
+    "duration": 462.325,
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 2.65,
+        "text": "The Signal at Lantern Hill.",
+        "page": null
+      },
+      {
+        "start": 3.65,
+        "end": 6.075,
+        "text": "The story begins on page three.",
+        "page": null
+      },
+      {
+        "start": 7.075,
+        "end": 10.45,
+        "text": "Chapter 1. An unexpected invitation.",
+        "page": 3
+      },
+      {
+        "start": 11.05,
+        "end": 14.8,
+        "text": "At dusk, three flashes appeared above Lantern Hill.",
+        "page": 3
+      },
+      {
+        "start": 15.18,
+        "end": 18.405,
+        "text": "The old observatory had been dark for years.",
+        "page": 3
+      },
+      {
+        "start": 18.785,
+        "end": 22.81,
+        "text": "Below it, the village was preparing for its lantern festival.",
+        "page": 3
+      },
+      {
+        "start": 23.19,
+        "end": 27.39,
+        "text": "Milo stopped beside the noticeboard while Pip circled overhead.",
+        "page": 3
+      },
+      {
+        "start": 27.77,
+        "end": 32.645,
+        "text": "A fresh envelope was pinned beneath a poster from the Village History Club.",
+        "page": 3
+      },
+      {
+        "start": 33.025,
+        "end": 38.35,
+        "text": "Inside was a faded map and a message: 'Find what our village nearly lost.",
+        "page": 3
+      },
+      {
+        "start": 38.73,
+        "end": 41.105,
+        "text": "Start where the river used to run.",
+        "page": 3
+      },
+      {
+        "start": 41.485,
+        "end": 43.96,
+        "text": "Finish before the festival bell.'",
+        "page": 3
+      },
+      {
+        "start": 44.34,
+        "end": 46.24,
+        "text": "Pip's eyes brightened.",
+        "page": 3
+      },
+      {
+        "start": 46.62,
+        "end": 48.395,
+        "text": "'A hidden treasure!'",
+        "page": 3
+      },
+      {
+        "start": 48.775,
+        "end": 51.25,
+        "text": "Milo examined the small print.",
+        "page": 3
+      },
+      {
+        "start": 51.63,
+        "end": 53.155,
+        "text": "'Perhaps.",
+        "page": 3
+      },
+      {
+        "start": 53.535,
+        "end": 55.985,
+        "text": "But it doesn't actually say treasure.'",
+        "page": 3
+      },
+      {
+        "start": 56.365,
+        "end": 58.99,
+        "text": "They agreed to investigate together.",
+        "page": 3
+      },
+      {
+        "start": 60.37,
+        "end": 62.045,
+        "text": "Turn the page.",
+        "page": null
+      },
+      {
+        "start": 63.545,
+        "end": 66.545,
+        "text": "Chapter 2. The map that misled them.",
+        "page": 4
+      },
+      {
+        "start": 67.145,
+        "end": 69.97,
+        "text": "The map showed a narrow bridge beside the mill.",
+        "page": 4
+      },
+      {
+        "start": 70.35,
+        "end": 75.4,
+        "text": "When they reached the river, however, there was only grass where the crossing should have been.",
+        "page": 4
+      },
+      {
+        "start": 75.78,
+        "end": 78.33,
+        "text": "'We're in the wrong place,' Pip said.",
+        "page": 4
+      },
+      {
+        "start": 78.71,
+        "end": 81.385,
+        "text": "Milo compared the hills with the drawing.",
+        "page": 4
+      },
+      {
+        "start": 81.765,
+        "end": 83.365,
+        "text": "They matched.",
+        "page": 4
+      },
+      {
+        "start": 83.745,
+        "end": 87.42,
+        "text": "Then he noticed a tiny date: 1958.",
+        "page": 4
+      },
+      {
+        "start": 87.8,
+        "end": 91.15,
+        "text": "They followed the public path to a newer footbridge.",
+        "page": 4
+      },
+      {
+        "start": 91.53,
+        "end": 96.055,
+        "text": "Its plaque read, 'Built after the great flood of 1964.'",
+        "page": 4
+      },
+      {
+        "start": 96.435,
+        "end": 100.81,
+        "text": "While Pip studied the water, Milo copied the date into his notebook.",
+        "page": 4
+      },
+      {
+        "start": 101.19,
+        "end": 104.115,
+        "text": "The river had changed course after the flood.",
+        "page": 4
+      },
+      {
+        "start": 104.495,
+        "end": 107.07,
+        "text": "'The map isn't useless,' he said.",
+        "page": 4
+      },
+      {
+        "start": 107.45,
+        "end": 109.925,
+        "text": "'It's a picture of a different time.'",
+        "page": 4
+      },
+      {
+        "start": 111.305,
+        "end": 112.98,
+        "text": "Turn the page.",
+        "page": null
+      },
+      {
+        "start": 114.48,
+        "end": 117.155,
+        "text": "Chapter 3. A suspicious sound.",
+        "page": 5
+      },
+      {
+        "start": 117.755,
+        "end": 123.13,
+        "text": "Near the observatory, a tall crow hurried along the path carrying a metal box.",
+        "page": 5
+      },
+      {
+        "start": 123.51,
+        "end": 125.635,
+        "text": "Something inside it clinked.",
+        "page": 5
+      },
+      {
+        "start": 126.015,
+        "end": 128.665,
+        "text": "A black feather drifted onto the steps.",
+        "page": 5
+      },
+      {
+        "start": 129.045,
+        "end": 131.695,
+        "text": "'He has the treasure,' Pip whispered.",
+        "page": 5
+      },
+      {
+        "start": 132.075,
+        "end": 133.775,
+        "text": "'We're too late!'",
+        "page": 5
+      },
+      {
+        "start": 134.155,
+        "end": 137.73,
+        "text": "Milo felt disappointed, but he stopped himself.",
+        "page": 5
+      },
+      {
+        "start": 138.11,
+        "end": 139.86,
+        "text": "They had heard metal.",
+        "page": 5
+      },
+      {
+        "start": 140.24,
+        "end": 142.19,
+        "text": "They had not seen coins.",
+        "page": 5
+      },
+      {
+        "start": 142.57,
+        "end": 144.295,
+        "text": "'Excuse me!'",
+        "page": 5
+      },
+      {
+        "start": 144.675,
+        "end": 146.375,
+        "text": "Milo called.",
+        "page": 5
+      },
+      {
+        "start": 146.755,
+        "end": 148.405,
+        "text": "The crow turned.",
+        "page": 5
+      },
+      {
+        "start": 148.785,
+        "end": 151.885,
+        "text": "His work apron was covered in pale dust.",
+        "page": 5
+      },
+      {
+        "start": 152.265,
+        "end": 154.215,
+        "text": "'Looking for the challenge?'",
+        "page": 5
+      },
+      {
+        "start": 154.595,
+        "end": 156.095,
+        "text": "he asked.",
+        "page": 5
+      },
+      {
+        "start": 156.475,
+        "end": 158.675,
+        "text": "'The next clue is on the steps.",
+        "page": 5
+      },
+      {
+        "start": 159.055,
+        "end": 161.755,
+        "text": "I must finish a repair before the bell.'",
+        "page": 5
+      },
+      {
+        "start": 162.135,
+        "end": 164.81,
+        "text": "Then he disappeared around the building.",
+        "page": 5
+      },
+      {
+        "start": 165.19,
+        "end": 166.815,
+        "text": "Pip frowned.",
+        "page": 5
+      },
+      {
+        "start": 167.195,
+        "end": 169.32,
+        "text": "'Why didn't he tell us more?'",
+        "page": 5
+      },
+      {
+        "start": 170.7,
+        "end": 172.375,
+        "text": "Turn the page.",
+        "page": null
+      },
+      {
+        "start": 173.875,
+        "end": 176.55,
+        "text": "Chapter 4. First things first.",
+        "page": 6
+      },
+      {
+        "start": 177.15,
+        "end": 180.175,
+        "text": "A small stone tablet stood beside the steps.",
+        "page": 6
+      },
+      {
+        "start": 180.555,
+        "end": 183.43,
+        "text": "Five short lines had been carved into it.",
+        "page": 6
+      },
+      {
+        "start": 183.81,
+        "end": 186.36,
+        "text": "Milo brushed away the dry leaves.",
+        "page": 6
+      },
+      {
+        "start": 186.74,
+        "end": 188.965,
+        "text": "'An inscription,' he said.",
+        "page": 6
+      },
+      {
+        "start": 189.345,
+        "end": 191.095,
+        "text": "'But why a poem?'",
+        "page": 6
+      },
+      {
+        "start": 191.475,
+        "end": 193.775,
+        "text": "Pip looked back at the envelope.",
+        "page": 6
+      },
+      {
+        "start": 194.155,
+        "end": 199.83,
+        "text": "In one corner, almost hidden beneath a fold, were three words: 'First things first.'",
+        "page": 6
+      },
+      {
+        "start": 200.21,
+        "end": 202.185,
+        "text": "The inscription reads:",
+        "page": 6
+      },
+      {
+        "start": 202.685,
+        "end": 204.885,
+        "text": "Night hides the silent lane.",
+        "page": 6
+      },
+      {
+        "start": 205.585,
+        "end": 207.785,
+        "text": "Owls watch the river bend.",
+        "page": 6
+      },
+      {
+        "start": 208.485,
+        "end": 210.81,
+        "text": "Roots hold the hillside still.",
+        "page": 6
+      },
+      {
+        "start": 211.51,
+        "end": 213.76,
+        "text": "Trees shelter every friend.",
+        "page": 6
+      },
+      {
+        "start": 214.46,
+        "end": 216.66,
+        "text": "Home waits beyond the rain.",
+        "page": 6
+      },
+      {
+        "start": 217.36,
+        "end": 219.585,
+        "text": "Milo read the poem twice.",
+        "page": 6
+      },
+      {
+        "start": 219.965,
+        "end": 222.465,
+        "text": "Pip tapped the beginning of each line.",
+        "page": 6
+      },
+      {
+        "start": 222.845,
+        "end": 226.895,
+        "text": "'Perhaps we should look at the initials, not the whole sentences.'",
+        "page": 6
+      },
+      {
+        "start": 227.275,
+        "end": 230.225,
+        "text": "Milo wrote five letters in his notebook.",
+        "page": 6
+      },
+      {
+        "start": 230.605,
+        "end": 233.08,
+        "text": "Together, they formed a direction.",
+        "page": 6
+      },
+      {
+        "start": 233.46,
+        "end": 238.21,
+        "text": "He turned the map until its compass arrow pointed the same way as his own.",
+        "page": 6
+      },
+      {
+        "start": 239.59,
+        "end": 241.265,
+        "text": "Turn the page.",
+        "page": null
+      },
+      {
+        "start": 242.765,
+        "end": 245.74,
+        "text": "Chapter 5. Four empty spaces.",
+        "page": 7
+      },
+      {
+        "start": 246.34,
+        "end": 250.44,
+        "text": "At the north entrance, a wooden cabinet stood beneath a shelter.",
+        "page": 7
+      },
+      {
+        "start": 250.82,
+        "end": 254.945,
+        "text": "A sign identified it as part of the History Club's challenge.",
+        "page": 7
+      },
+      {
+        "start": 255.325,
+        "end": 258.225,
+        "text": "Four numbered wheels protected its door.",
+        "page": 7
+      },
+      {
+        "start": 258.605,
+        "end": 263.08,
+        "text": "Above them was another clue: 'The year the river changed its mind.'",
+        "page": 7
+      },
+      {
+        "start": 263.46,
+        "end": 268.585,
+        "text": "Pip immediately suggested 1958, the date printed on their map.",
+        "page": 7
+      },
+      {
+        "start": 268.965,
+        "end": 271.765,
+        "text": "Milo tried it, but the door stayed shut.",
+        "page": 7
+      },
+      {
+        "start": 272.145,
+        "end": 274.57,
+        "text": "The festival bell would ring soon.",
+        "page": 7
+      },
+      {
+        "start": 274.95,
+        "end": 277.2,
+        "text": "Pip fluttered impatiently.",
+        "page": 7
+      },
+      {
+        "start": 277.58,
+        "end": 279.555,
+        "text": "'Try every number!'",
+        "page": 7
+      },
+      {
+        "start": 279.935,
+        "end": 282.885,
+        "text": "'That would take too long,' Milo replied.",
+        "page": 7
+      },
+      {
+        "start": 283.265,
+        "end": 285.415,
+        "text": "'Let's compare our evidence.'",
+        "page": 7
+      },
+      {
+        "start": 285.795,
+        "end": 287.795,
+        "text": "He opened his notebook.",
+        "page": 7
+      },
+      {
+        "start": 288.175,
+        "end": 292.875,
+        "text": "There were two dates on the page, and they described two very different events.",
+        "page": 7
+      },
+      {
+        "start": 294.255,
+        "end": 295.93,
+        "text": "Turn the page.",
+        "page": null
+      },
+      {
+        "start": 297.43,
+        "end": 300.255,
+        "text": "Chapter 6. The date that mattered.",
+        "page": 8
+      },
+      {
+        "start": 300.855,
+        "end": 303.755,
+        "text": "Milo pointed to his sketch of the footbridge.",
+        "page": 8
+      },
+      {
+        "start": 304.135,
+        "end": 309.76,
+        "text": "'The map was drawn in 1958, but the flood happened in 1964.",
+        "page": 8
+      },
+      {
+        "start": 310.14,
+        "end": 312.565,
+        "text": "That's when the river changed course.'",
+        "page": 8
+      },
+      {
+        "start": 312.945,
+        "end": 314.895,
+        "text": "Pip checked the clue again.",
+        "page": 8
+      },
+      {
+        "start": 315.275,
+        "end": 318.2,
+        "text": "This time, she turned the wheels carefully.",
+        "page": 8
+      },
+      {
+        "start": 318.58,
+        "end": 319.88,
+        "text": "One.",
+        "page": 8
+      },
+      {
+        "start": 320.26,
+        "end": 321.635,
+        "text": "Nine.",
+        "page": 8
+      },
+      {
+        "start": 322.015,
+        "end": 323.415,
+        "text": "Six.",
+        "page": 8
+      },
+      {
+        "start": 323.795,
+        "end": 325.145,
+        "text": "Four.",
+        "page": 8
+      },
+      {
+        "start": 325.525,
+        "end": 328.3,
+        "text": "The lock clicked, and the cabinet opened.",
+        "page": 8
+      },
+      {
+        "start": 328.68,
+        "end": 335.13,
+        "text": "Inside lay a sealed tin, several photographs, and a bundle of letters tied with blue string.",
+        "page": 8
+      },
+      {
+        "start": 335.51,
+        "end": 337.285,
+        "text": "There were no jewels.",
+        "page": 8
+      },
+      {
+        "start": 337.665,
+        "end": 341.84,
+        "text": "Pip lifted a photograph showing villagers rebuilding a bridge.",
+        "page": 8
+      },
+      {
+        "start": 342.22,
+        "end": 344.62,
+        "text": "'They look exhausted,' she said.",
+        "page": 8
+      },
+      {
+        "start": 345.0,
+        "end": 347.75,
+        "text": "Milo unfolded the first letter.",
+        "page": 8
+      },
+      {
+        "start": 348.13,
+        "end": 352.18,
+        "text": "It began, 'To whoever finds this: today we started again.'",
+        "page": 8
+      },
+      {
+        "start": 353.56,
+        "end": 355.235,
+        "text": "Turn the page.",
+        "page": null
+      },
+      {
+        "start": 356.735,
+        "end": 359.835,
+        "text": "Chapter 7. The crow's explanation.",
+        "page": 9
+      },
+      {
+        "start": 360.435,
+        "end": 365.685,
+        "text": "The crow returned and introduced himself as Mr Reed, the village carpenter.",
+        "page": 9
+      },
+      {
+        "start": 366.065,
+        "end": 368.29,
+        "text": "He opened his metal box.",
+        "page": 9
+      },
+      {
+        "start": 368.67,
+        "end": 371.82,
+        "text": "Inside were tools and small brass fittings.",
+        "page": 9
+      },
+      {
+        "start": 372.2,
+        "end": 375.75,
+        "text": "'I was repairing the lantern shutter,' he explained.",
+        "page": 9
+      },
+      {
+        "start": 376.13,
+        "end": 380.105,
+        "text": "'The History Club asked me to restore the signal for tonight.'",
+        "page": 9
+      },
+      {
+        "start": 380.485,
+        "end": 383.585,
+        "text": "Pip glanced at Milo, then lowered her head.",
+        "page": 9
+      },
+      {
+        "start": 383.965,
+        "end": 387.015,
+        "text": "'I thought you had taken the prize,' she admitted.",
+        "page": 9
+      },
+      {
+        "start": 387.395,
+        "end": 389.37,
+        "text": "Mr Reed smiled.",
+        "page": 9
+      },
+      {
+        "start": 389.75,
+        "end": 392.8,
+        "text": "'A clinking box can tell more than one story.'",
+        "page": 9
+      },
+      {
+        "start": 393.18,
+        "end": 397.205,
+        "text": "He explained that children had written the letters after the flood.",
+        "page": 9
+      },
+      {
+        "start": 397.585,
+        "end": 401.21,
+        "text": "Their families had saved the village by working together.",
+        "page": 9
+      },
+      {
+        "start": 401.59,
+        "end": 406.415,
+        "text": "The cabinet had protected those memories while the observatory was closed.",
+        "page": 9
+      },
+      {
+        "start": 407.795,
+        "end": 409.47,
+        "text": "Turn the page.",
+        "page": null
+      },
+      {
+        "start": 410.97,
+        "end": 413.72,
+        "text": "Chapter 8. A story worth sharing.",
+        "page": 10
+      },
+      {
+        "start": 414.32,
+        "end": 420.07,
+        "text": "At the festival, Milo and Pip helped the History Club display the photographs and letters.",
+        "page": 10
+      },
+      {
+        "start": 420.45,
+        "end": 424.1,
+        "text": "Mr Reed placed a clear cover over the old map.",
+        "page": 10
+      },
+      {
+        "start": 424.48,
+        "end": 429.005,
+        "text": "Beside it, Milo added a note explaining how the river had moved.",
+        "page": 10
+      },
+      {
+        "start": 429.385,
+        "end": 435.435,
+        "text": "Soon, neighbours were pointing out familiar places and discovering relatives in the pictures.",
+        "page": 10
+      },
+      {
+        "start": 435.815,
+        "end": 437.465,
+        "text": "The bell rang.",
+        "page": 10
+      },
+      {
+        "start": 437.845,
+        "end": 443.07,
+        "text": "Above the village, the restored lantern sent three steady flashes across the hill.",
+        "page": 10
+      },
+      {
+        "start": 443.45,
+        "end": 447.375,
+        "text": "'Next time,' Pip said, 'I'll ask what's inside the box.'",
+        "page": 10
+      },
+      {
+        "start": 447.755,
+        "end": 449.505,
+        "text": "Milo grinned.",
+        "page": 10
+      },
+      {
+        "start": 449.885,
+        "end": 452.885,
+        "text": "'And I'll check the date before choosing a route.'",
+        "page": 10
+      },
+      {
+        "start": 453.265,
+        "end": 455.29,
+        "text": "They had finished the challenge.",
+        "page": 10
+      },
+      {
+        "start": 455.67,
+        "end": 458.47,
+        "text": "Now the village could continue the story.",
+        "page": 10
+      },
+      {
+        "start": 459.85,
+        "end": 461.325,
+        "text": "The end.",
+        "page": null
+      }
+    ],
+    "page_starts": {
+      "3": 7.075,
+      "4": 63.545,
+      "5": 114.48,
+      "6": 173.875,
+      "7": 242.765,
+      "8": 297.43,
+      "9": 356.735,
+      "10": 410.97
+    }
+  },
+  "practiceTrack": {
+    "file": "audio/the-signal-at-lantern-hill-vocabulary.mp3",
+    "duration": 120.7,
+    "cues": [
+      {
+        "start": 0.3,
+        "end": 4.225,
+        "text": "The Signal at Lantern Hill. Vocabulary practice.",
+        "page": null
+      },
+      {
+        "start": 5.025,
+        "end": 9.775,
+        "text": "Listen to each word and its meaning. Then repeat the example sentence.",
+        "page": null
+      },
+      {
+        "start": 10.775,
+        "end": 12.2,
+        "text": "Faded.",
+        "page": null
+      },
+      {
+        "start": 13.0,
+        "end": 16.0,
+        "text": "less bright or clear than it used to be.",
+        "page": null
+      },
+      {
+        "start": 16.7,
+        "end": 19.575,
+        "text": "The faded map was difficult to read.",
+        "page": null
+      },
+      {
+        "start": 20.375,
+        "end": 21.85,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 26.85,
+        "end": 28.4,
+        "text": "Evidence.",
+        "page": null
+      },
+      {
+        "start": 29.2,
+        "end": 33.2,
+        "text": "facts or information that help show whether an idea is true.",
+        "page": null
+      },
+      {
+        "start": 33.9,
+        "end": 38.375,
+        "text": "A metal sound was evidence of metal, not necessarily coins.",
+        "page": null
+      },
+      {
+        "start": 39.175,
+        "end": 40.65,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 45.65,
+        "end": 47.275,
+        "text": "Assumption.",
+        "page": null
+      },
+      {
+        "start": 48.075,
+        "end": 51.725,
+        "text": "an idea accepted as true before it has been checked.",
+        "page": null
+      },
+      {
+        "start": 52.425,
+        "end": 55.325,
+        "text": "Pip's assumption about the crow was wrong.",
+        "page": null
+      },
+      {
+        "start": 56.125,
+        "end": 57.6,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 62.6,
+        "end": 64.2,
+        "text": "Inscription.",
+        "page": null
+      },
+      {
+        "start": 65.0,
+        "end": 68.525,
+        "text": "words written or carved on an object or surface.",
+        "page": null
+      },
+      {
+        "start": 69.225,
+        "end": 72.425,
+        "text": "The inscription was carved into a stone tablet.",
+        "page": null
+      },
+      {
+        "start": 73.225,
+        "end": 74.7,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 79.7,
+        "end": 81.3,
+        "text": "Initials.",
+        "page": null
+      },
+      {
+        "start": 82.1,
+        "end": 84.825,
+        "text": "the first letters of names or words.",
+        "page": null
+      },
+      {
+        "start": 85.525,
+        "end": 89.05,
+        "text": "The initials of the poem's lines gave a direction.",
+        "page": null
+      },
+      {
+        "start": 89.85,
+        "end": 91.325,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 96.325,
+        "end": 97.875,
+        "text": "Restore.",
+        "page": null
+      },
+      {
+        "start": 98.675,
+        "end": 102.425,
+        "text": "to repair something or return it to a former condition.",
+        "page": null
+      },
+      {
+        "start": 103.125,
+        "end": 107.05,
+        "text": "Mr Reed helped restore the observatory's signal.",
+        "page": null
+      },
+      {
+        "start": 107.85,
+        "end": 109.325,
+        "text": "Your turn.",
+        "page": null
+      },
+      {
+        "start": 114.325,
+        "end": 118.7,
+        "text": "Now choose three of these words and use them in your own sentences.",
+        "page": null
+      }
+    ]
+  }
+}

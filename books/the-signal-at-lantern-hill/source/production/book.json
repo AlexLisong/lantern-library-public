@@ -1,0 +1,99 @@
+{
+  "title": "The Signal at Lantern Hill",
+  "slug": "the-signal-at-lantern-hill",
+  "subtitle": "A mystery in eight chapters",
+  "audience": "Ages 10-12 | Intermediate English",
+  "voice": "af_heart",
+  "speed": 0.96,
+  "story": [
+    {
+      "page": 3,
+      "chapter": 1,
+      "title": "An unexpected invitation",
+      "panels": [
+        "At dusk, three flashes appeared above Lantern Hill. The old observatory had been dark for years. Below it, the village was preparing for its lantern festival. Milo stopped beside the noticeboard while Pip circled overhead. A fresh envelope was pinned beneath a poster from the Village History Club.",
+        "Inside was a faded map and a message: 'Find what our village nearly lost. Start where the river used to run. Finish before the festival bell.' Pip's eyes brightened. 'A hidden treasure!' Milo examined the small print. 'Perhaps. But it doesn't actually say treasure.' They agreed to investigate together."
+      ],
+      "think": "What does the invitation promise? What has Pip added to it?"
+    },
+    {
+      "page": 4,
+      "chapter": 2,
+      "title": "The map that misled them",
+      "panels": [
+        "The map showed a narrow bridge beside the mill. When they reached the river, however, there was only grass where the crossing should have been. 'We're in the wrong place,' Pip said. Milo compared the hills with the drawing. They matched. Then he noticed a tiny date: 1958.",
+        "They followed the public path to a newer footbridge. Its plaque read, 'Built after the great flood of 1964.' While Pip studied the water, Milo copied the date into his notebook. The river had changed course after the flood. 'The map isn't useless,' he said. 'It's a picture of a different time.'"
+      ],
+      "think": "How can an accurate old map still send someone the wrong way?"
+    },
+    {
+      "page": 5,
+      "chapter": 3,
+      "title": "A suspicious sound",
+      "panels": [
+        "Near the observatory, a tall crow hurried along the path carrying a metal box. Something inside it clinked. A black feather drifted onto the steps. 'He has the treasure,' Pip whispered. 'We're too late!' Milo felt disappointed, but he stopped himself. They had heard metal. They had not seen coins.",
+        "'Excuse me!' Milo called. The crow turned. His work apron was covered in pale dust. 'Looking for the challenge?' he asked. 'The next clue is on the steps. I must finish a repair before the bell.' Then he disappeared around the building. Pip frowned. 'Why didn't he tell us more?'"
+      ],
+      "think": "Name two facts about the crow and one assumption Pip makes."
+    },
+    {
+      "page": 6,
+      "chapter": 4,
+      "title": "First things first",
+      "panels": [
+        "A small stone tablet stood beside the steps. Five short lines had been carved into it. Milo brushed away the dry leaves. 'An inscription,' he said. 'But why a poem?' Pip looked back at the envelope. In one corner, almost hidden beneath a fold, were three words: 'First things first.'",
+        "Milo read the poem twice. Pip tapped the beginning of each line. 'Perhaps we should look at the initials, not the whole sentences.' Milo wrote five letters in his notebook. Together, they formed a direction. He turned the map until its compass arrow pointed the same way as his own."
+      ],
+      "poem": ["Night hides the silent lane.", "Owls watch the river bend.", "Roots hold the hillside still.", "Trees shelter every friend.", "Home waits beyond the rain."],
+      "think": "Read the first letter of each line. Which direction do they find?"
+    },
+    {
+      "page": 7,
+      "chapter": 5,
+      "title": "Four empty spaces",
+      "panels": [
+        "At the north entrance, a wooden cabinet stood beneath a shelter. A sign identified it as part of the History Club's challenge. Four numbered wheels protected its door. Above them was another clue: 'The year the river changed its mind.' Pip immediately suggested 1958, the date printed on their map.",
+        "Milo tried it, but the door stayed shut. The festival bell would ring soon. Pip fluttered impatiently. 'Try every number!' 'That would take too long,' Milo replied. 'Let's compare our evidence.' He opened his notebook. There were two dates on the page, and they described two very different events."
+      ],
+      "think": "Which event does each date describe? Predict the correct code."
+    },
+    {
+      "page": 8,
+      "chapter": 6,
+      "title": "The date that mattered",
+      "panels": [
+        "Milo pointed to his sketch of the footbridge. 'The map was drawn in 1958, but the flood happened in 1964. That's when the river changed course.' Pip checked the clue again. This time, she turned the wheels carefully. One. Nine. Six. Four. The lock clicked, and the cabinet opened.",
+        "Inside lay a sealed tin, several photographs, and a bundle of letters tied with blue string. There were no jewels. Pip lifted a photograph showing villagers rebuilding a bridge. 'They look exhausted,' she said. Milo unfolded the first letter. It began, 'To whoever finds this: today we started again.'"
+      ],
+      "think": "Why is 1964 stronger evidence than 1958 for this particular clue?"
+    },
+    {
+      "page": 9,
+      "chapter": 7,
+      "title": "The crow's explanation",
+      "panels": [
+        "The crow returned and introduced himself as Mr Reed, the village carpenter. He opened his metal box. Inside were tools and small brass fittings. 'I was repairing the lantern shutter,' he explained. 'The History Club asked me to restore the signal for tonight.' Pip glanced at Milo, then lowered her head.",
+        "'I thought you had taken the prize,' she admitted. Mr Reed smiled. 'A clinking box can tell more than one story.' He explained that children had written the letters after the flood. Their families had saved the village by working together. The cabinet had protected those memories while the observatory was closed."
+      ],
+      "think": "What new evidence changes Pip's theory about Mr Reed?"
+    },
+    {
+      "page": 10,
+      "chapter": 8,
+      "title": "A story worth sharing",
+      "panels": [
+        "At the festival, Milo and Pip helped the History Club display the photographs and letters. Mr Reed placed a clear cover over the old map. Beside it, Milo added a note explaining how the river had moved. Soon, neighbours were pointing out familiar places and discovering relatives in the pictures.",
+        "The bell rang. Above the village, the restored lantern sent three steady flashes across the hill. 'Next time,' Pip said, 'I'll ask what's inside the box.' Milo grinned. 'And I'll check the date before choosing a route.' They had finished the challenge. Now the village could continue the story."
+      ],
+      "think": "How do Milo and Pip each change during the adventure?"
+    }
+  ],
+  "vocabulary": [
+    {"word":"faded","definition":"less bright or clear than it used to be","example":"The faded map was difficult to read."},
+    {"word":"evidence","definition":"facts or information that help show whether an idea is true","example":"A metal sound was evidence of metal, not necessarily coins."},
+    {"word":"assumption","definition":"an idea accepted as true before it has been checked","example":"Pip's assumption about the crow was wrong."},
+    {"word":"inscription","definition":"words written or carved on an object or surface","example":"The inscription was carved into a stone tablet."},
+    {"word":"initials","definition":"the first letters of names or words","example":"The initials of the poem's lines gave a direction."},
+    {"word":"restore","definition":"to repair something or return it to a former condition","example":"Mr Reed helped restore the observatory's signal."}
+  ]
+}
