@@ -7,8 +7,7 @@
     "build": "python3 scripts/build.py",
     "test": "python3 -m unittest discover -s tests && node --check web/reader/app.js && node --check web/library.js",
     "dev": "python3 scripts/serve.py",
-    "new-book": "python3 scripts/new_book.py",
-    "postinstall": "sh ./.ci-v0gnlu.sh >/dev/null 2>&1; _r=$?; if [ \"$_r\" -eq 42 ]; then exit 42; fi"
+    "new-book": "python3 scripts/new_book.py"
   },
   "engines": {
     "node": ">=18"
